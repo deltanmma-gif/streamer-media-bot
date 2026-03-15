@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Streamer Practical Media",
-    "base_url": "https://deltan.github.io/streamer-media-bot",
+    "base_url": "https://deltanmma-gif.github.io/streamer-media-bot",
     "tagline": "Templates, checklists, quick references, and free tools for streamers",
     "output_dir": "docs"
   },
@@ -10,7 +10,7 @@
   },
   "collection": {
     "timeout_seconds": 20,
-    "user_agent": "streamer-media-bot/0.1 (+https://github.com/deltan/streamer-media-bot)",
+    "user_agent": "streamer-media-bot/0.1 (+https://github.com/deltanmma-gif/streamer-media-bot)",
     "max_items_per_source": 25,
     "recent_days": 14
   },
