@@ -1,0 +1,51 @@
+{
+  "site": {
+    "title": "Streamer Practical Media",
+    "base_url": "https://deltan.github.io/streamer-media-bot",
+    "tagline": "Templates, checklists, quick references, and free tools for streamers",
+    "output_dir": "docs"
+  },
+  "database": {
+    "path": "data/streamer_media.db"
+  },
+  "collection": {
+    "timeout_seconds": 20,
+    "user_agent": "streamer-media-bot/0.1 (+https://github.com/deltan/streamer-media-bot)",
+    "max_items_per_source": 25,
+    "recent_days": 14
+  },
+  "retention": {
+    "news_days": 30,
+    "max_card_history": 90
+  },
+  "sources": [
+    {
+      "id": "youtube_teamyoutube",
+      "name": "TeamYouTube",
+      "kind": "feed",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkRfArvrzheW2E7b6SVT7vQ",
+      "category": "youtube"
+    },
+    {
+      "id": "obs_releases",
+      "name": "OBS Studio Releases",
+      "kind": "feed",
+      "url": "https://github.com/obsproject/obs-studio/releases.atom",
+      "category": "obs"
+    },
+    {
+      "id": "twitch_blog",
+      "name": "Twitch Blog",
+      "kind": "sitemap",
+      "url": "https://blog.twitch.tv/sitemap.xml",
+      "category": "twitch",
+      "include_patterns": [
+        "blog",
+        "update",
+        "product",
+        "creator",
+        "announce"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Twitch / YouTube 配信前チェック比較</title>
+  <style>
+    :root { --bg:#0f1318; --panel:#181f27; --line:#2b3440; --text:#f1f5f9; --muted:#9fb0c3; --accent:#68b4ff; }
+    * { box-sizing:border-box; }
+    body { margin:0; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background:var(--bg); color:var(--text); }
+    a { color:var(--accent); text-decoration:none; }
+    a:hover { text-decoration:underline; }
+    .wrap { max-width: 1120px; margin: 0 auto; padding: 24px; }
+    .hero { padding: 28px 0 8px; }
+    .muted { color: var(--muted); }
+    .grid { display:grid; gap:16px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+    .card { background:var(--panel); border:1px solid var(--line); border-radius:20px; padding:18px; }
+    .table-wrap { overflow:auto; }
+    table { width:100%; border-collapse:collapse; }
+    th, td { padding:10px 12px; border-bottom:1px solid var(--line); text-align:left; vertical-align:top; }
+    th { color:var(--muted); font-weight:600; }
+    .pill { display:inline-block; padding:4px 10px; border-radius:999px; font-size:12px; background:#112132; color:#a8d2ff; }
+    code, pre { background:#0b1015; border:1px solid var(--line); border-radius:12px; }
+    pre { padding:14px; overflow:auto; }
+    .topnav { display:flex; gap:12px; flex-wrap:wrap; margin:10px 0 0; }
+    .topnav a { background:#111923; border:1px solid var(--line); border-radius:999px; padding:8px 12px; }
+    .footer { margin:48px 0 16px; color:var(--muted); font-size:14px; }
+    button,input,select { font:inherit; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="hero">
+      <div class="pill">Streamer Practical Media</div>
+      <div class="topnav">
+        <a href="../index.html">ホーム</a>
+        <a href="../news/index.html">更新一覧</a>
+        <a href="../tools/index.html">ツール</a>
+        <a href="../posts/index.html">投稿候補</a>
+      </div>
+    </header>
+    
+    <article class='card'>
+      <h1>Twitch / YouTube 配信前チェック比較</h1>
+      <p class='muted'>同時配信前に見落としがちな差分を1枚で確認</p>
+      <div class='table-wrap'>
+        <table>
+          <thead><tr><th>項目</th><th>Twitch</th><th>YouTube</th></tr></thead>
+          <tbody><tr><td>タイトル</td><td>カテゴリ・企画名を先頭に</td><td>検索に乗るキーワードを先頭に</td></tr><tr><td>説明欄</td><td>外部リンクを絞る</td><td>概要欄に固定リンクを整理</td></tr><tr><td>通知</td><td>フォロー通知文を短く</td><td>コミュニティ投稿と併用</td></tr><tr><td>切り抜き導線</td><td>配信中クリップ導線を告知</td><td>配信後にShorts候補を回収</td></tr><tr><td>サムネ</td><td>文字を大きく</td><td>検索一覧で読める短文を優先</td></tr></tbody>
+        </table>
+      </div>
+    </article>
+    
+    <div class="footer">Generated at 2026-03-15 16:33 UTC</div>
+  </div>
+</body>
+</html>

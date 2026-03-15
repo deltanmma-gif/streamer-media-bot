@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "YouTube ライブ配信の管理画面更新まとめ",
+    "url": "https://example.com/youtube-live-update",
+    "published_at": "2026-03-15T15:59:21.615536+00:00",
+    "summary": "配信前チェックに影響する導線変更を整理",
+    "fingerprint": "demo-0-youtube_teamyoutube",
+    "created_at": "2026-03-15 15:59:21"
+  },
+  {
+    "id": 2,
+    "source_id": "obs_releases",
+    "source_name": "OBS Studio Releases",
+    "category": "obs",
+    "title": "OBS Studio 31.1 リリース候補で追加された改善点",
+    "url": "https://example.com/obs-release",
+    "published_at": "2026-03-14T15:59:21.615536+00:00",
+    "summary": "音声メーターと安定性まわりの更新を確認",
+    "fingerprint": "demo-1-obs_releases",
+    "created_at": "2026-03-15 15:59:21"
+  },
+  {
+    "id": 3,
+    "source_id": "twitch_blog",
+    "source_name": "Twitch Blog",
+    "category": "twitch",
+    "title": "Twitch のクリップ導線改善を見直すための更新",
+    "url": "https://example.com/twitch-clips-update",
+    "published_at": "2026-03-13T15:59:21.615536+00:00",
+    "summary": "切り抜き導線と通知文に関係する変更を整理",
+    "fingerprint": "demo-2-twitch_blog",
+    "created_at": "2026-03-15 15:59:21"
+  }
+]

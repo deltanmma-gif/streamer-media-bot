@@ -1,0 +1,32 @@
+[
+  {
+    "headline": "更新整理: YouTube ライブ配信の管理画面更新まとめ",
+    "body": "TeamYouTube の更新を1分で把握できるように整理しました。要点だけ先に確認したい人向け。 https://example.com/youtube-live-update",
+    "alt_text": "TeamYouTube の更新要点を整理したカード画像。タイトルは YouTube ライブ配信の管理画面更新まとめ。",
+    "image_path": "assets/cards/obs-preflight-check.png"
+  },
+  {
+    "headline": "更新整理: OBS Studio 31.1 リリース候補で追加された改善点",
+    "body": "OBS Studio Releases の更新を1分で把握できるように整理しました。要点だけ先に確認したい人向け。 https://example.com/obs-release",
+    "alt_text": "OBS Studio Releases の更新要点を整理したカード画像。タイトルは OBS Studio 31.1 リリース候補で追加された改善点。",
+    "image_path": "assets/cards/obs-preflight-check.png"
+  },
+  {
+    "headline": "更新整理: Twitch のクリップ導線改善を見直すための更新",
+    "body": "Twitch Blog の更新を1分で把握できるように整理しました。要点だけ先に確認したい人向け。 https://example.com/twitch-clips-update",
+    "alt_text": "Twitch Blog の更新要点を整理したカード画像。タイトルは Twitch のクリップ導線改善を見直すための更新。",
+    "image_path": "assets/cards/obs-preflight-check.png"
+  },
+  {
+    "headline": "保存版: OBS 配信前5分チェック",
+    "body": "配信前後で使い回せるように、OBS 配信前5分チェック を1枚にまとめました。",
+    "alt_text": "保存版カード。タイトルは OBS 配信前5分チェック。箇条書きで手順を5つ掲載。",
+    "image_path": "assets/cards/obs-preflight-check.png"
+  },
+  {
+    "headline": "保存版: 配信後ふり返りテンプレ",
+    "body": "配信前後で使い回せるように、配信後ふり返りテンプレ を1枚にまとめました。",
+    "alt_text": "保存版カード。タイトルは 配信後ふり返りテンプレ。箇条書きで手順を5つ掲載。",
+    "image_path": "assets/cards/post-stream-review.png"
+  }
+]
