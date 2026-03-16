@@ -50,6 +50,7 @@ jobs:
       - name: Build site
         run: |
           PYTHONPATH=src python -m streamer_media_bot build
+          python ./scripts/post_build_patch.py
 
       - name: Commit generated files
         run: |
