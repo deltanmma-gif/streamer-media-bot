@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 import json
-import math
 import textwrap
 from datetime import datetime, timezone
 from pathlib import Path
@@ -41,7 +40,13 @@ def create_card_png(card: dict[str, Any], output_path: Path) -> None:
     subtitle_font = _font(32)
     bullet_font = _font(34)
 
-    draw.rounded_rectangle((60, 60, width - 60, height - 60), radius=36, outline=(100, 180, 255), width=4, fill=(27, 35, 47))
+    draw.rounded_rectangle(
+        (60, 60, width - 60, height - 60),
+        radius=36,
+        outline=(100, 180, 255),
+        width=4,
+        fill=(27, 35, 47),
+    )
     draw.text((110, 110), card["title"], font=title_font, fill=(255, 255, 255))
     draw.text((110, 200), card.get("subtitle", ""), font=subtitle_font, fill=(177, 210, 255))
 
@@ -59,10 +64,10 @@ def create_card_png(card: dict[str, Any], output_path: Path) -> None:
 
 def html_page(title: str, body: str, site_title: str, base_url: str = "") -> str:
     return f"""<!doctype html>
-<html lang=\"ja\">
+<html lang="ja">
 <head>
-  <meta charset=\"utf-8\">
-  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{title}</title>
   <style>
     :root {{ --bg:#0f1318; --panel:#181f27; --line:#2b3440; --text:#f1f5f9; --muted:#9fb0c3; --accent:#68b4ff; }}
@@ -90,25 +95,31 @@ def html_page(title: str, body: str, site_title: str, base_url: str = "") -> str
   </style>
 </head>
 <body>
-  <div class=\"wrap\">
-    <header class=\"hero\">
-      <div class=\"pill\">{site_title}</div>
-      <div class=\"topnav\">
-        <a href=\"{base_url}/index.html\">ホーム</a>
-        <a href=\"{base_url}/news/index.html\">更新一覧</a>
-        <a href=\"{base_url}/tools/index.html\">ツール</a>
-        <a href=\"{base_url}/posts/index.html\">投稿候補</a>
+  <div class="wrap">
+    <header class="hero">
+      <div class="pill">{site_title}</div>
+      <div class="topnav">
+        <a href="{base_url}/index.html">ホーム</a>
+        <a href="{base_url}/news/index.html">更新一覧</a>
+        <a href="{base_url}/tools/index.html">ツール</a>
+        <a href="{base_url}/posts/index.html">投稿候補</a>
       </div>
     </header>
     {body}
-    <div class=\"footer\">Generated at {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}</div>
+    <div class="footer">Generated at {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}</div>
   </div>
 </body>
 </html>
 """
 
 
-def render_home(site: dict[str, Any], cards: list[dict[str, Any]], tables: list[dict[str, Any]], items: list[dict[str, Any]], posts: list[dict[str, Any]]) -> str:
+def render_home(
+    site: dict[str, Any],
+    cards: list[dict[str, Any]],
+    tables: list[dict[str, Any]],
+    items: list[dict[str, Any]],
+    posts: list[dict[str, Any]],
+) -> str:
     card_html = "".join(
         f"<article class='card'><h3>{card['title']}</h3><p class='muted'>{card.get('subtitle','')}</p><img src='assets/cards/{card['slug']}.png' alt='{card['title']}' style='width:100%;border-radius:16px;border:1px solid var(--line);'><p><a href='cards/{card['slug']}.html'>詳細を見る</a></p></article>"
         for card in cards
@@ -125,6 +136,7 @@ def render_home(site: dict[str, Any], cards: list[dict[str, Any]], tables: list[
         f"<article class='card'><h3>{post['headline']}</h3><p>{post['body']}</p><p class='muted'>ALT: {post['alt_text']}</p></article>"
         for post in posts[:4]
     )
+    empty_items = "<p class='muted'>まだ更新がありません。</p>"
     body = f"""
     <section>
       <h1>{site['title']}</h1>
@@ -132,14 +144,14 @@ def render_home(site: dict[str, Any], cards: list[dict[str, Any]], tables: list[
     </section>
     <section>
       <h2>最新更新</h2>
-      <div class='grid'>{item_html or '<p class="muted">まだ更新がありません。</p>'}</div>
+      <div class='grid'>{item_html or empty_items}</div>
     </section>
     <section>
       <h2>保存版カード</h2>
       <div class='grid'>{card_html}</div>
     </section>
     <section>
-      <h2>比較表・早見表</h2>
+      <h2>比較表早見表</h2>
       <div class='grid'>{table_html}</div>
     </section>
     <section>
@@ -147,7 +159,7 @@ def render_home(site: dict[str, Any], cards: list[dict[str, Any]], tables: list[
       <div class='grid'>{post_html}</div>
     </section>
     """
-    return html_page(site['title'], body, site['title'], site.get('base_url', ''))
+    return html_page(site["title"], body, site["title"], site.get("base_url", ""))
 
 
 def render_card_page(site: dict[str, Any], card: dict[str, Any]) -> str:
@@ -160,7 +172,7 @@ def render_card_page(site: dict[str, Any], card: dict[str, Any]) -> str:
       <ul>{bullets}</ul>
     </article>
     """
-    return html_page(card['title'], body, site['title'], '..')
+    return html_page(card["title"], body, site["title"], "..")
 
 
 def render_table_page(site: dict[str, Any], table: dict[str, Any]) -> str:
@@ -178,7 +190,7 @@ def render_table_page(site: dict[str, Any], table: dict[str, Any]) -> str:
       </div>
     </article>
     """
-    return html_page(table['title'], body, site['title'], '..')
+    return html_page(table["title"], body, site["title"], "..")
 
 
 def render_news_page(site: dict[str, Any], items: list[dict[str, Any]]) -> str:
@@ -186,8 +198,9 @@ def render_news_page(site: dict[str, Any], items: list[dict[str, Any]]) -> str:
         f"<article class='card'><div class='pill'>{item['source_name']}</div><h3><a href='{item['url']}'>{item['title']}</a></h3><p class='muted'>{item['published_at']}</p><p>{item['summary']}</p></article>"
         for item in items
     )
-    body = f"<section><h1>更新一覧</h1><div class='grid'>{html or '<p class="muted">更新がありません。</p>'}</div></section>"
-    return html_page('更新一覧', body, site['title'], '..')
+    empty_news = "<p class='muted'>更新がありません。</p>"
+    body = f"<section><h1>更新一覧</h1><div class='grid'>{html or empty_news}</div></section>"
+    return html_page("更新一覧", body, site["title"], "..")
 
 
 def render_posts_page(site: dict[str, Any], posts: list[dict[str, Any]]) -> str:
@@ -197,7 +210,7 @@ def render_posts_page(site: dict[str, Any], posts: list[dict[str, Any]]) -> str:
             f"<article class='card'><h2>{post['headline']}</h2><p>{post['body']}</p><p class='muted'>ALT: {post['alt_text']}</p><p class='muted'>画像: {post['image_path']}</p></article>"
         )
     body = f"<section><h1>投稿候補</h1><div class='grid'>{''.join(entries)}</div></section>"
-    return html_page('投稿候補', body, site['title'], '..')
+    return html_page("投稿候補", body, site["title"], "..")
 
 
 def render_tools_page(site: dict[str, Any], tool_data: dict[str, Any]) -> str:
@@ -227,7 +240,7 @@ def render_tools_page(site: dict[str, Any], tool_data: dict[str, Any]) -> str:
       }});
     </script>
     """
-    return html_page('ツール', body, site['title'], '..')
+    return html_page("ツール", body, site["title"], "..")
 
 
 def generate_posts(items: list[dict[str, Any]], cards: list[dict[str, Any]]) -> list[dict[str, Any]]:
