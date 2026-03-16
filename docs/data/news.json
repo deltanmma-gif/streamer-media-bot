@@ -1,5 +1,17 @@
 [
   {
+    "id": 57,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "How to Create an AI Transformation Effect with Effect Maker with @varunraikar",
+    "url": "https://www.youtube.com/watch",
+    "published_at": "2026-03-16T16:05:34+00:00",
+    "summary": "Get started with Effect Maker at https://effects.youtube.com Try out the Vaporwave Effect by @varunraikar here: https://youtube.com/effect/696618dc-0000-2ddc-9daa-3c286d4d3ffa/shorts?si=im0TZ2kCJ5iv09Q5 Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG ► Check out our Help Center: https://goo.gl/fBzr7 ► Check out the Creator Insider channel: https://www.youtube.com/@creatorinsider",
+    "fingerprint": "28d4933d87ac85906bd61bac3013a842429d2c71",
+    "created_at": "2026-03-16 19:55:52"
+  },
+  {
     "id": 1,
     "source_id": "youtube_teamyoutube",
     "source_name": "TeamYouTube",
