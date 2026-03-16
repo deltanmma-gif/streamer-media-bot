@@ -53,7 +53,7 @@ def create_card_png(card: dict[str, Any], output_path: Path) -> None:
             y += 52
         y += 10
 
-    draw.text((110, height - 110), "驟堺ｿ｡閠・髄縺醍┌譁吝ｮ溽畑蜩√Γ繝・ぅ繧｢", font=_font(26), fill=(170, 190, 210))
+    draw.text((110, height - 110), "配信者向け無料実用品メディア", font=_font(26), fill=(170, 190, 210))
     image.save(output_path)
 
 
@@ -94,10 +94,10 @@ def html_page(title: str, body: str, site_title: str, base_url: str = "") -> str
     <header class=\"hero\">
       <div class=\"pill\">{site_title}</div>
       <div class=\"topnav\">
-        <a href=\"{base_url}/index.html\">繝帙・繝</a>
-        <a href=\"{base_url}/news/index.html\">譖ｴ譁ｰ荳隕ｧ</a>
-        <a href=\"{base_url}/tools/index.html\">繝・・繝ｫ</a>
-        <a href=\"{base_url}/posts/index.html\">謚慕ｨｿ蛟呵｣・/a>
+        <a href=\"{base_url}/index.html\">ホーム</a>
+        <a href=\"{base_url}/news/index.html\">更新一覧</a>
+        <a href=\"{base_url}/tools/index.html\">ツール</a>
+        <a href=\"{base_url}/posts/index.html\">投稿候補</a>
       </div>
     </header>
     {body}
@@ -110,11 +110,11 @@ def html_page(title: str, body: str, site_title: str, base_url: str = "") -> str
 
 def render_home(site: dict[str, Any], cards: list[dict[str, Any]], tables: list[dict[str, Any]], items: list[dict[str, Any]], posts: list[dict[str, Any]]) -> str:
     card_html = "".join(
-        f"<article class='card'><h3>{card['title']}</h3><p class='muted'>{card.get('subtitle','')}</p><img src='assets/cards/{card['slug']}.png' alt='{card['title']}' style='width:100%;border-radius:16px;border:1px solid var(--line);'><p><a href='cards/{card['slug']}.html'>隧ｳ邏ｰ繧定ｦ九ｋ</a></p></article>"
+        f"<article class='card'><h3>{card['title']}</h3><p class='muted'>{card.get('subtitle','')}</p><img src='assets/cards/{card['slug']}.png' alt='{card['title']}' style='width:100%;border-radius:16px;border:1px solid var(--line);'><p><a href='cards/{card['slug']}.html'>詳細を見る</a></p></article>"
         for card in cards
     )
     table_html = "".join(
-        f"<article class='card'><h3>{table['title']}</h3><p class='muted'>{table.get('description','')}</p><p><a href='tables/{table['slug']}.html'>豈碑ｼ・｡ｨ繧定ｦ九ｋ</a></p></article>"
+        f"<article class='card'><h3>{table['title']}</h3><p class='muted'>{table.get('description','')}</p><p><a href='tables/{table['slug']}.html'>比較表を見る</a></p></article>"
         for table in tables
     )
     item_html = "".join(
@@ -131,19 +131,19 @@ def render_home(site: dict[str, Any], cards: list[dict[str, Any]], tables: list[
       <p class='muted'>{site['tagline']}</p>
     </section>
     <section>
-      <h2>譛譁ｰ譖ｴ譁ｰ</h2>
-      <div class='grid'>{item_html or '<p class="muted">縺ｾ縺譖ｴ譁ｰ縺後≠繧翫∪縺帙ｓ縲・/p>'}</div>
+      <h2>最新更新</h2>
+      <div class='grid'>{item_html or '<p class="muted">まだ更新がありません。</p>'}</div>
     </section>
     <section>
-      <h2>菫晏ｭ倡沿繧ｫ繝ｼ繝・/h2>
+      <h2>保存版カード</h2>
       <div class='grid'>{card_html}</div>
     </section>
     <section>
-      <h2>豈碑ｼ・｡ｨ繝ｻ譌ｩ隕玖｡ｨ</h2>
+      <h2>比較表・早見表</h2>
       <div class='grid'>{table_html}</div>
     </section>
     <section>
-      <h2>莉頑律縺ｮ謚慕ｨｿ蛟呵｣・/h2>
+      <h2>今日の投稿候補</h2>
       <div class='grid'>{post_html}</div>
     </section>
     """
@@ -186,35 +186,35 @@ def render_news_page(site: dict[str, Any], items: list[dict[str, Any]]) -> str:
         f"<article class='card'><div class='pill'>{item['source_name']}</div><h3><a href='{item['url']}'>{item['title']}</a></h3><p class='muted'>{item['published_at']}</p><p>{item['summary']}</p></article>"
         for item in items
     )
-    body = f"<section><h1>譖ｴ譁ｰ荳隕ｧ</h1><div class='grid'>{html or '<p class="muted">譖ｴ譁ｰ縺後≠繧翫∪縺帙ｓ縲・/p>'}</div></section>"
-    return html_page('譖ｴ譁ｰ荳隕ｧ', body, site['title'], '..')
+    body = f"<section><h1>更新一覧</h1><div class='grid'>{html or '<p class="muted">更新がありません。</p>'}</div></section>"
+    return html_page('更新一覧', body, site['title'], '..')
 
 
 def render_posts_page(site: dict[str, Any], posts: list[dict[str, Any]]) -> str:
     entries = []
     for post in posts:
         entries.append(
-            f"<article class='card'><h2>{post['headline']}</h2><p>{post['body']}</p><p class='muted'>ALT: {post['alt_text']}</p><p class='muted'>逕ｻ蜒・ {post['image_path']}</p></article>"
+            f"<article class='card'><h2>{post['headline']}</h2><p>{post['body']}</p><p class='muted'>ALT: {post['alt_text']}</p><p class='muted'>画像: {post['image_path']}</p></article>"
         )
-    body = f"<section><h1>謚慕ｨｿ蛟呵｣・/h1><div class='grid'>{''.join(entries)}</div></section>"
-    return html_page('謚慕ｨｿ蛟呵｣・, body, site['title'], '..')
+    body = f"<section><h1>投稿候補</h1><div class='grid'>{''.join(entries)}</div></section>"
+    return html_page('投稿候補', body, site['title'], '..')
 
 
 def render_tools_page(site: dict[str, Any], tool_data: dict[str, Any]) -> str:
     js_data = json.dumps(tool_data, ensure_ascii=False)
     body = f"""
     <section>
-      <h1>繝悶Λ繧ｦ繧ｶ蜀・ヤ繝ｼ繝ｫ</h1>
+      <h1>ブラウザ内ツール</h1>
       <div class='grid'>
         <article class='card'>
-          <h2>驟堺ｿ｡繧ｿ繧､繝医Ν逕滓・</h2>
-          <p class='muted'>騾壻ｿ｡縺ｪ縺・/ GitHub Pages 荳翫〒蜍穂ｽ・/p>
-          <p><button id='generateBtn'>繧ｿ繧､繝医Ν繧剃ｽ懊ｋ</button></p>
-          <pre class='mono' id='titleOut'>縺薙％縺ｫ蛟呵｣懊′蜃ｺ縺ｾ縺・/pre>
+          <h2>配信タイトル生成</h2>
+          <p class='muted'>通信なし / GitHub Pages 上で動作</p>
+          <p><button id='generateBtn'>タイトルを作る</button></p>
+          <pre class='mono' id='titleOut'>ここに候補が出ます</pre>
         </article>
         <article class='card'>
-          <h2>蜻顔衍譁・・蝙・/h2>
-          <pre class='mono'>縲蝉ｻ頑律縺ｮ驟堺ｿ｡縲曾n菴輔ｒ縺吶ｋ縺欺n隱ｰ蜷代￠縺欺n髢句ｧ区凾蛻ｻ\n譛蠕後↓荳險</pre>
+          <h2>告知文の型</h2>
+          <pre class='mono'>【今日の配信】\n何をするか\n誰向けか\n開始時刻\n最後に一言</pre>
         </article>
       </div>
     </section>
@@ -227,7 +227,7 @@ def render_tools_page(site: dict[str, Any], tool_data: dict[str, Any]) -> str:
       }});
     </script>
     """
-    return html_page('繝・・繝ｫ', body, site['title'], '..')
+    return html_page('ツール', body, site['title'], '..')
 
 
 def generate_posts(items: list[dict[str, Any]], cards: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -235,18 +235,18 @@ def generate_posts(items: list[dict[str, Any]], cards: list[dict[str, Any]]) -> 
     for item in items[:3]:
         posts.append(
             {
-                "headline": f"譖ｴ譁ｰ謨ｴ逅・ {item['title']}",
-                "body": f"{item['source_name']} 縺ｮ譖ｴ譁ｰ繧・蛻・〒謚頑升縺ｧ縺阪ｋ繧医≧縺ｫ謨ｴ逅・＠縺ｾ縺励◆縲りｦ∫せ縺縺大・縺ｫ遒ｺ隱阪＠縺溘＞莠ｺ蜷代￠縲・{item['url']}",
-                "alt_text": f"{item['source_name']} 縺ｮ譖ｴ譁ｰ隕∫せ繧呈紛逅・＠縺溘き繝ｼ繝臥判蜒上ゅち繧､繝医Ν縺ｯ {item['title']}縲・,
+                "headline": f"更新整理: {item['title']}",
+                "body": f"{item['source_name']} の更新を1分で把握できるように整理しました。要点だけ先に確認したい人向け。 {item['url']}",
+                "alt_text": f"{item['source_name']} の更新要点を整理したカード画像。タイトルは {item['title']}。",
                 "image_path": f"assets/cards/{cards[0]['slug']}.png" if cards else "",
             }
         )
     for card in cards[:2]:
         posts.append(
             {
-                "headline": f"菫晏ｭ倡沿: {card['title']}",
-                "body": f"驟堺ｿ｡蜑榊ｾ後〒菴ｿ縺・屓縺帙ｋ繧医≧縺ｫ縲＋card['title']} 繧・譫壹↓縺ｾ縺ｨ繧√∪縺励◆縲・,
-                "alt_text": f"菫晏ｭ倡沿繧ｫ繝ｼ繝峨ゅち繧､繝医Ν縺ｯ {card['title']}縲らｮ・擅譖ｸ縺阪〒謇矩・ｒ5縺､謗ｲ霈峨・,
+                "headline": f"保存版: {card['title']}",
+                "body": f"配信前後で使い回せるように、{card['title']} を1枚にまとめました。",
+                "alt_text": f"保存版カード。タイトルは {card['title']}。箇条書きで手順を5つ掲載。",
                 "image_path": f"assets/cards/{card['slug']}.png",
             }
         )
