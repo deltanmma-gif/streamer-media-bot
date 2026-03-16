@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>ツール</title>
+  <title>同接を増やしやすい配信タイトルの型</title>
   <style>
     :root { --bg:#0f1318; --panel:#181f27; --line:#2b3440; --text:#f1f5f9; --muted:#9fb0c3; --accent:#68b4ff; }
     * { box-sizing:border-box; }
@@ -41,33 +41,16 @@
       </div>
     </header>
     
-    <section>
-      <h1>ブラウザ内ツール</h1>
-      <div class='grid'>
-        <article class='card'>
-          <h2>配信タイトル生成</h2>
-          <p class='muted'>通信なし / GitHub Pages 上で動作</p>
-          <p><button id='generateBtn'>タイトルを作る</button></p>
-          <pre class='mono' id='titleOut'>ここに候補が出ます</pre>
-        </article>
-        <article class='card'>
-          <h2>告知文の型</h2>
-          <pre class='mono'>【今日の配信】
-何をするか
-誰向けか
-開始時刻
-最後に一言</pre>
-        </article>
+    <article class='card'>
+      <h1>同接を増やしやすい配信タイトルの型</h1>
+      <p class='muted'>配信タイプごとに反応を取りやすい型を整理</p>
+      <div class='table-wrap'>
+        <table>
+          <thead><tr><th>配信タイプ</th><th>型</th><th>例</th></tr></thead>
+          <tbody><tr><td>参加型</td><td>企画 + 条件 + 空気感</td><td>参加型 / 初見歓迎 / 2戦交代で回します</td></tr><tr><td>ランク</td><td>現在地 + 到達点 + 今日の条件</td><td>ゴールド1プラチナ / 今日こそ昇格戦</td></tr><tr><td>検証</td><td>何を試すか + 何が分かるか</td><td>新設定を試す / どこまで音質が変わるか検証</td></tr><tr><td>初心者向け</td><td>誰向けか + 何が得か</td><td>初心者向け / 立ち回りを実戦で解説</td></tr><tr><td>雑談</td><td>状況 + 話題 + 一言フック</td><td>深夜雑談 / 近況と今後の話 / 告知あり</td></tr></tbody>
+        </table>
       </div>
-    </section>
-    <script>
-      const DATA = {"goals": ["同接を伸ばしたい", "初見を定着させたい", "切り抜き候補を回収したい", "昇格戦を通したい", "再訪率を上げたい"], "games": ["LoL", "VALORANT", "Apex", "雑談", "参加型"], "hooks": ["初見歓迎", "参加型", "昇格戦", "初心者向け", "本気検証"], "endings": ["来たら一言ください", "クリップ候補募集", "最後に告知あり", "感想歓迎", "次回の企画も決めたい"]};
-      function pick(arr) { return arr[Math.floor(Math.random() * arr.length)]; }
-      document.getElementById('generateBtn').addEventListener('click', () => {
-        const title = `${pick(DATA.games)} / ${pick(DATA.hooks)} / ${pick(DATA.goals)} / ${pick(DATA.endings)}`;
-        document.getElementById('titleOut').textContent = title;
-      });
-    </script>
+    </article>
     
     <div class="footer">Generated at 2026-03-16 12:06 UTC</div>
   </div>

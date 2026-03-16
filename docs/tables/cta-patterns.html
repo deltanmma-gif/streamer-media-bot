@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>ツール</title>
+  <title>配信内CTAの型 早見表</title>
   <style>
     :root { --bg:#0f1318; --panel:#181f27; --line:#2b3440; --text:#f1f5f9; --muted:#9fb0c3; --accent:#68b4ff; }
     * { box-sizing:border-box; }
@@ -41,33 +41,16 @@
       </div>
     </header>
     
-    <section>
-      <h1>ブラウザ内ツール</h1>
-      <div class='grid'>
-        <article class='card'>
-          <h2>配信タイトル生成</h2>
-          <p class='muted'>通信なし / GitHub Pages 上で動作</p>
-          <p><button id='generateBtn'>タイトルを作る</button></p>
-          <pre class='mono' id='titleOut'>ここに候補が出ます</pre>
-        </article>
-        <article class='card'>
-          <h2>告知文の型</h2>
-          <pre class='mono'>【今日の配信】
-何をするか
-誰向けか
-開始時刻
-最後に一言</pre>
-        </article>
+    <article class='card'>
+      <h1>配信内CTAの型 早見表</h1>
+      <p class='muted'>露骨になりすぎず反応を取りやすい言い回しを整理</p>
+      <div class='table-wrap'>
+        <table>
+          <thead><tr><th>目的</th><th>弱い言い方</th><th>改善例</th></tr></thead>
+          <tbody><tr><td>フォロー</td><td>フォローしてください</td><td>次も来たいと思ったらフォローだけお願いします</td></tr><tr><td>サブスク</td><td>サブスクお願いします</td><td>応援してもいいと思った人向けに特典を置いてます</td></tr><tr><td>クリップ</td><td>切り抜いてください</td><td>ここ切り抜き候補あったら教えてください</td></tr><tr><td>感想</td><td>コメントください</td><td>初見でも一言もらえると次に活かしやすいです</td></tr><tr><td>外部導線</td><td>概要欄見てください</td><td>固定欄にまとめてあるので必要な人だけ見てください</td></tr></tbody>
+        </table>
       </div>
-    </section>
-    <script>
-      const DATA = {"goals": ["同接を伸ばしたい", "初見を定着させたい", "切り抜き候補を回収したい", "昇格戦を通したい", "再訪率を上げたい"], "games": ["LoL", "VALORANT", "Apex", "雑談", "参加型"], "hooks": ["初見歓迎", "参加型", "昇格戦", "初心者向け", "本気検証"], "endings": ["来たら一言ください", "クリップ候補募集", "最後に告知あり", "感想歓迎", "次回の企画も決めたい"]};
-      function pick(arr) { return arr[Math.floor(Math.random() * arr.length)]; }
-      document.getElementById('generateBtn').addEventListener('click', () => {
-        const title = `${pick(DATA.games)} / ${pick(DATA.hooks)} / ${pick(DATA.goals)} / ${pick(DATA.endings)}`;
-        document.getElementById('titleOut').textContent = title;
-      });
-    </script>
+    </article>
     
     <div class="footer">Generated at 2026-03-16 12:06 UTC</div>
   </div>

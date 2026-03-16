@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>ツール</title>
+  <title>配信者の収益化導線 比較表</title>
   <style>
     :root { --bg:#0f1318; --panel:#181f27; --line:#2b3440; --text:#f1f5f9; --muted:#9fb0c3; --accent:#68b4ff; }
     * { box-sizing:border-box; }
@@ -41,33 +41,16 @@
       </div>
     </header>
     
-    <section>
-      <h1>ブラウザ内ツール</h1>
-      <div class='grid'>
-        <article class='card'>
-          <h2>配信タイトル生成</h2>
-          <p class='muted'>通信なし / GitHub Pages 上で動作</p>
-          <p><button id='generateBtn'>タイトルを作る</button></p>
-          <pre class='mono' id='titleOut'>ここに候補が出ます</pre>
-        </article>
-        <article class='card'>
-          <h2>告知文の型</h2>
-          <pre class='mono'>【今日の配信】
-何をするか
-誰向けか
-開始時刻
-最後に一言</pre>
-        </article>
+    <article class='card'>
+      <h1>配信者の収益化導線 比較表</h1>
+      <p class='muted'>同接が少ない段階でも作りやすい収益源を整理</p>
+      <div class='table-wrap'>
+        <table>
+          <thead><tr><th>収益源</th><th>向いている段階</th><th>強み</th><th>注意点</th></tr></thead>
+          <tbody><tr><td>Twitchサブスク</td><td>固定視聴者が付き始めた段階</td><td>毎月の継続収益になりやすい</td><td>特典説明が弱いと伸びにくい</td></tr><tr><td>YouTubeメンバー</td><td>動画や配信の再訪がある段階</td><td>アーカイブ資産と相性が良い</td><td>特典設計が必要</td></tr><tr><td>BOOTH / グッズ</td><td>少人数でも熱量が高い段階</td><td>単価を作りやすい</td><td>導線が多すぎると散る</td></tr><tr><td>FANBOX / 支援</td><td>応援理由を言語化できる段階</td><td>少数支援でも成り立つ</td><td>継続更新が必要</td></tr><tr><td>案件 / スポンサー</td><td>実績が見える段階</td><td>単価が大きい</td><td>窓口と実績提示が必要</td></tr></tbody>
+        </table>
       </div>
-    </section>
-    <script>
-      const DATA = {"goals": ["同接を伸ばしたい", "初見を定着させたい", "切り抜き候補を回収したい", "昇格戦を通したい", "再訪率を上げたい"], "games": ["LoL", "VALORANT", "Apex", "雑談", "参加型"], "hooks": ["初見歓迎", "参加型", "昇格戦", "初心者向け", "本気検証"], "endings": ["来たら一言ください", "クリップ候補募集", "最後に告知あり", "感想歓迎", "次回の企画も決めたい"]};
-      function pick(arr) { return arr[Math.floor(Math.random() * arr.length)]; }
-      document.getElementById('generateBtn').addEventListener('click', () => {
-        const title = `${pick(DATA.games)} / ${pick(DATA.hooks)} / ${pick(DATA.goals)} / ${pick(DATA.endings)}`;
-        document.getElementById('titleOut').textContent = title;
-      });
-    </script>
+    </article>
     
     <div class="footer">Generated at 2026-03-16 12:06 UTC</div>
   </div>

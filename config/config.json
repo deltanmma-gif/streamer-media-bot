@@ -1,8 +1,8 @@
 {
   "site": {
-    "title": "Streamer Practical Media",
+    "title": "配信者向け 同接増加収益化メディア",
     "base_url": "https://deltanmma-gif.github.io/streamer-media-bot",
-    "tagline": "Templates, checklists, quick references, and free tools for streamers",
+    "tagline": "同接を増やすためのテンプレ比較表無料ツールを毎日更新",
     "output_dir": "docs"
   },
   "database": {
