@@ -2,21 +2,21 @@
 
 ## 1. 更新整理: Understanding Changes in Watch Time
 
-TeamYouTube の更新を1分で把握できるように整理しました。要点だけ先に確認したい人向け。 https://www.youtube.com/watch
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
 
 - ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Understanding Changes in Watch Time。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 2. 更新整理: How to Create an AI Transformation Effect with Effect Maker with @varunraikar
 
-TeamYouTube の更新を1分で把握できるように整理しました。要点だけ先に確認したい人向け。 https://www.youtube.com/watch
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
 
 - ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは How to Create an AI Transformation Effect with Effect Maker with @varunraikar。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 3. 更新整理: YouTube ライブ配信の管理画面更新まとめ
 
-TeamYouTube の更新を1分で把握できるように整理しました。要点だけ先に確認したい人向け。 https://example.com/youtube-live-update
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://example.com/youtube-live-update
 
 - ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは YouTube ライブ配信の管理画面更新まとめ。
 - 画像: assets/cards/first-3-minutes-hook.png

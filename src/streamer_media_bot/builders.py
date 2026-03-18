@@ -1,6 +1,8 @@
 from __future__ import annotations
 
+import html as html_lib
 import json
+import re
 import textwrap
 from datetime import datetime, timezone
 from pathlib import Path
@@ -28,6 +30,15 @@ def _font(size: int):
         return ImageFont.truetype("DejaVuSans.ttf", size=size)
     except Exception:
         return ImageFont.load_default()
+
+
+def clean_text(text: str | None, max_len: int = 160) -> str:
+    t = html_lib.unescape(text or "")
+    t = re.sub(r"<[^>]+>", " ", t)
+    t = re.sub(r"\s+", " ", t).strip()
+    if len(t) > max_len:
+        t = t[:max_len].rstrip(" ,.;:-") + "..."
+    return t
 
 
 def create_card_png(card: dict[str, Any], output_path: Path) -> None:
@@ -78,8 +89,8 @@ def html_page(title: str, body: str, site_title: str, base_url: str = "") -> str
     .wrap {{ max-width: 1120px; margin: 0 auto; padding: 24px; }}
     .hero {{ padding: 28px 0 8px; }}
     .muted {{ color: var(--muted); }}
-    .grid {{ display:grid; gap:16px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }}
-    .card {{ background:var(--panel); border:1px solid var(--line); border-radius:20px; padding:18px; }}
+    .grid {{ display:grid; gap:16px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); align-items:start; }}
+    .card {{ background:var(--panel); border:1px solid var(--line); border-radius:20px; padding:18px; align-self:start; }}
     .table-wrap {{ overflow:auto; }}
     table {{ width:100%; border-collapse:collapse; }}
     th, td {{ padding:10px 12px; border-bottom:1px solid var(--line); text-align:left; vertical-align:top; }}
@@ -90,8 +101,14 @@ def html_page(title: str, body: str, site_title: str, base_url: str = "") -> str
     .topnav {{ display:flex; gap:12px; flex-wrap:wrap; margin:10px 0 0; }}
     .topnav a {{ background:#111923; border:1px solid var(--line); border-radius:999px; padding:8px 12px; }}
     .footer {{ margin:48px 0 16px; color:var(--muted); font-size:14px; }}
-    button,input,select {{ font:inherit; }}
     .mono {{ font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }}
+    .excerpt {{
+      line-height: 1.6;
+      display: -webkit-box;
+      -webkit-line-clamp: 5;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }}
   </style>
 </head>
 <body>
@@ -100,9 +117,9 @@ def html_page(title: str, body: str, site_title: str, base_url: str = "") -> str
       <div class="pill">{site_title}</div>
       <div class="topnav">
         <a href="{base_url}/index.html">ホーム</a>
-        <a href="{base_url}/news/index.html">更新一覧</a>
-        <a href="{base_url}/tools/index.html">ツール</a>
-        <a href="{base_url}/posts/index.html">投稿候補</a>
+        <a href="{base_url}/news/index.html">最新情報</a>
+        <a href="{base_url}/tools/index.html">同接収益化ツール</a>
+        <a href="{base_url}/posts/index.html">X投稿候補</a>
       </div>
     </header>
     {body}
@@ -125,15 +142,15 @@ def render_home(
         for card in cards
     )
     table_html = "".join(
-        f"<article class='card'><h3>{table['title']}</h3><p class='muted'>{table.get('description','')}</p><p><a href='tables/{table['slug']}.html'>比較表を見る</a></p></article>"
+        f"<article class='card'><h3>{table['title']}</h3><p class='muted excerpt'>{table.get('description','')}</p><p><a href='tables/{table['slug']}.html'>比較表を見る</a></p></article>"
         for table in tables
     )
     item_html = "".join(
-        f"<article class='card'><div class='pill'>{item['source_name']}</div><h3><a href='{item['url']}'>{item['title']}</a></h3><p class='muted'>{item['published_at'][:10]} / {item['category']}</p><p>{item['summary']}</p></article>"
+        f"<article class='card'><div class='pill'>{item['source_name']}</div><h3><a href='{item['url']}'>{item['title']}</a></h3><p class='muted'>{item['published_at'][:10]} / {item['category']}</p><p class='excerpt'>{clean_text(item['summary'], 140)}</p></article>"
         for item in items[:6]
     )
     post_html = "".join(
-        f"<article class='card'><h3>{post['headline']}</h3><p>{post['body']}</p><p class='muted'>ALT: {post['alt_text']}</p></article>"
+        f"<article class='card'><h3>{post['headline']}</h3><p class='excerpt'>{post['body']}</p><p class='muted'>ALT: {post['alt_text']}</p></article>"
         for post in posts[:4]
     )
     empty_items = "<p class='muted'>まだ更新がありません。</p>"
@@ -143,19 +160,19 @@ def render_home(
       <p class='muted'>{site['tagline']}</p>
     </section>
     <section>
-      <h2>最新更新</h2>
-      <div class='grid'>{item_html or empty_items}</div>
-    </section>
-    <section>
-      <h2>保存版カード</h2>
+      <h2>同接を増やすテンプレ</h2>
       <div class='grid'>{card_html}</div>
     </section>
     <section>
-      <h2>比較表早見表</h2>
+      <h2>収益化改善比較表</h2>
       <div class='grid'>{table_html}</div>
     </section>
     <section>
-      <h2>今日の投稿候補</h2>
+      <h2>直近の重要更新</h2>
+      <div class='grid'>{item_html or empty_items}</div>
+    </section>
+    <section>
+      <h2>今日のX投稿候補</h2>
       <div class='grid'>{post_html}</div>
     </section>
     """
@@ -195,38 +212,38 @@ def render_table_page(site: dict[str, Any], table: dict[str, Any]) -> str:
 
 def render_news_page(site: dict[str, Any], items: list[dict[str, Any]]) -> str:
     html = "".join(
-        f"<article class='card'><div class='pill'>{item['source_name']}</div><h3><a href='{item['url']}'>{item['title']}</a></h3><p class='muted'>{item['published_at']}</p><p>{item['summary']}</p></article>"
+        f"<article class='card'><div class='pill'>{item['source_name']}</div><h3><a href='{item['url']}'>{item['title']}</a></h3><p class='muted'>{item['published_at']}</p><p class='excerpt'>{clean_text(item['summary'], 220)}</p></article>"
         for item in items
     )
     empty_news = "<p class='muted'>更新がありません。</p>"
-    body = f"<section><h1>更新一覧</h1><div class='grid'>{html or empty_news}</div></section>"
-    return html_page("更新一覧", body, site["title"], "..")
+    body = f"<section><h1>最新情報</h1><div class='grid'>{html or empty_news}</div></section>"
+    return html_page("最新情報", body, site["title"], "..")
 
 
 def render_posts_page(site: dict[str, Any], posts: list[dict[str, Any]]) -> str:
     entries = []
     for post in posts:
         entries.append(
-            f"<article class='card'><h2>{post['headline']}</h2><p>{post['body']}</p><p class='muted'>ALT: {post['alt_text']}</p><p class='muted'>画像: {post['image_path']}</p></article>"
+            f"<article class='card'><h2>{post['headline']}</h2><p class='excerpt'>{post['body']}</p><p class='muted'>ALT: {post['alt_text']}</p><p class='muted'>画像: {post['image_path']}</p></article>"
         )
-    body = f"<section><h1>投稿候補</h1><div class='grid'>{''.join(entries)}</div></section>"
-    return html_page("投稿候補", body, site["title"], "..")
+    body = f"<section><h1>X投稿候補</h1><div class='grid'>{''.join(entries)}</div></section>"
+    return html_page("X投稿候補", body, site["title"], "..")
 
 
 def render_tools_page(site: dict[str, Any], tool_data: dict[str, Any]) -> str:
     js_data = json.dumps(tool_data, ensure_ascii=False)
     body = f"""
     <section>
-      <h1>ブラウザ内ツール</h1>
+      <h1>同接収益化ツール</h1>
       <div class='grid'>
         <article class='card'>
           <h2>配信タイトル生成</h2>
-          <p class='muted'>通信なし / GitHub Pages 上で動作</p>
+          <p class='muted'>通信なし / GitHub Pages 上でそのまま動作</p>
           <p><button id='generateBtn'>タイトルを作る</button></p>
           <pre class='mono' id='titleOut'>ここに候補が出ます</pre>
         </article>
         <article class='card'>
-          <h2>告知文の型</h2>
+          <h2>CTA告知文の型</h2>
           <pre class='mono'>【今日の配信】\n何をするか\n誰向けか\n開始時刻\n最後に一言</pre>
         </article>
       </div>
@@ -240,7 +257,7 @@ def render_tools_page(site: dict[str, Any], tool_data: dict[str, Any]) -> str:
       }});
     </script>
     """
-    return html_page("ツール", body, site["title"], "..")
+    return html_page("同接収益化ツール", body, site["title"], "..")
 
 
 def generate_posts(items: list[dict[str, Any]], cards: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -249,7 +266,7 @@ def generate_posts(items: list[dict[str, Any]], cards: list[dict[str, Any]]) -> 
         posts.append(
             {
                 "headline": f"更新整理: {item['title']}",
-                "body": f"{item['source_name']} の更新を1分で把握できるように整理しました。要点だけ先に確認したい人向け。 {item['url']}",
+                "body": f"{item['source_name']} の更新を短く整理しました。要点だけ先に確認したい人向けです。 {item['url']}",
                 "alt_text": f"{item['source_name']} の更新要点を整理したカード画像。タイトルは {item['title']}。",
                 "image_path": f"assets/cards/{cards[0]['slug']}.png" if cards else "",
             }

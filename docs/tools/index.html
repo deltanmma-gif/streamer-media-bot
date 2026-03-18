@@ -13,8 +13,8 @@
     .wrap { max-width: 1120px; margin: 0 auto; padding: 24px; }
     .hero { padding: 28px 0 8px; }
     .muted { color: var(--muted); }
-    .grid { display:grid; gap:16px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
-    .card { background:var(--panel); border:1px solid var(--line); border-radius:20px; padding:18px; }
+    .grid { display:grid; gap:16px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); align-items:start; }
+    .card { background:var(--panel); border:1px solid var(--line); border-radius:20px; padding:18px; align-self:start; }
     .table-wrap { overflow:auto; }
     table { width:100%; border-collapse:collapse; }
     th, td { padding:10px 12px; border-bottom:1px solid var(--line); text-align:left; vertical-align:top; }
@@ -25,14 +25,20 @@
     .topnav { display:flex; gap:12px; flex-wrap:wrap; margin:10px 0 0; }
     .topnav a { background:#111923; border:1px solid var(--line); border-radius:999px; padding:8px 12px; }
     .footer { margin:48px 0 16px; color:var(--muted); font-size:14px; }
-    button,input,select { font:inherit; }
     .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .excerpt {
+      line-height: 1.6;
+      display: -webkit-box;
+      -webkit-line-clamp: 5;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
   </style>
 </head>
 <body>
   <div class="wrap">
     <header class="hero">
-      <div class="pill">配信者向け 同接増加収益化メディア</div>
+      <div class="pill">驟堺ｿ｡閠・髄縺・蜷梧磁蠅怜刈蜿守寢蛹悶Γ繝・ぅ繧｢</div>
       <div class="topnav">
         <a href="../index.html">ホーム</a>
         <a href="../news/index.html">最新情報</a>
@@ -69,7 +75,7 @@
       });
     </script>
     
-    <div class="footer">Generated at 2026-03-18 05:56 UTC</div>
+    <div class="footer">Generated at 2026-03-18 06:03 UTC</div>
   </div>
 </body>
 </html>

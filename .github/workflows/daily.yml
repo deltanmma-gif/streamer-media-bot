@@ -47,6 +47,10 @@ jobs:
         run: |
           PYTHONPATH=src python -m streamer_media_bot seed-demo
 
+      - name: Normalize collected items
+        run: |
+          python ./scripts/normalize_items.py
+
       - name: Build site
         run: |
           PYTHONPATH=src python -m streamer_media_bot build
