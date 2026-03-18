@@ -32,7 +32,7 @@ def _font(size: int):
         return ImageFont.load_default()
 
 
-def clean_text(text: str | None, max_len: int = 160) -> str:
+def clean_text(text: str | None, max_len: int = 140) -> str:
     t = html_lib.unescape(text or "")
     t = re.sub(r"<[^>]+>", " ", t)
     t = re.sub(r"\s+", " ", t).strip()

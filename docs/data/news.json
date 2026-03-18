@@ -7,7 +7,7 @@
     "title": "Understanding Changes in Watch Time",
     "url": "https://www.youtube.com/watch",
     "published_at": "2026-03-17T15:44:38+00:00",
-    "summary": "Have you noticed changes in your video or channel performance? Do you know what to look out for when it comes to evaluating potential causes? Let’s walk through...",
+    "summary": "Have you noticed changes in your video or channel performance? Do you know what to look out for when it comes to evaluating potential causes...",
     "fingerprint": "9a6f6f56108bd8ea6688955162d110fcf76f5a1d",
     "created_at": "2026-03-17 19:57:37"
   },
@@ -19,7 +19,7 @@
     "title": "How to Create an AI Transformation Effect with Effect Maker with @varunraikar",
     "url": "https://www.youtube.com/watch",
     "published_at": "2026-03-16T16:05:34+00:00",
-    "summary": "Get started with Effect Maker at https://effects.youtube.com Try out the Vaporwave Effect by @varunraikar here: https://youtube.com/effect/696618dc-0000-2ddc-9d...",
+    "summary": "Get started with Effect Maker at Try out the Vaporwave Effect by @varunraikar here:",
     "fingerprint": "28d4933d87ac85906bd61bac3013a842429d2c71",
     "created_at": "2026-03-16 19:55:52"
   },
@@ -31,7 +31,7 @@
     "title": "YouTube ライブ配信の管理画面更新まとめ",
     "url": "https://www.youtube.com/@TeamYouTube",
     "published_at": "2026-03-15T15:59:21.615536+00:00",
-    "summary": "配信前チェックに影響する導線変更を整理",
+    "summary": "YouTube ライブ配信の管理画面更新まとめ に関する更新です。配信動画運用への影響を確認してください。",
     "fingerprint": "demo-0-youtube_teamyoutube",
     "created_at": "2026-03-15 15:59:21"
   },
@@ -43,7 +43,7 @@
     "title": "OBS Studio 31.1 リリース候補で追加された改善点",
     "url": "https://github.com/obsproject/obs-studio/releases",
     "published_at": "2026-03-14T15:59:21.615536+00:00",
-    "summary": "音声メーターと安定性まわりの更新を確認",
+    "summary": "OBS Studio 31.1 リリース候補で追加された改善点 の更新です。変更点の詳細は公式リリースノートで確認できます。",
     "fingerprint": "demo-1-obs_releases",
     "created_at": "2026-03-15 15:59:21"
   },
@@ -55,7 +55,7 @@
     "title": "Effect Maker Tutorial: Visual Scripting 101 with @haleycatpawz",
     "url": "https://www.youtube.com/watch",
     "published_at": "2026-03-13T18:45:05+00:00",
-    "summary": "Get started with Effect Maker at https://effects.youtube.com Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG ► Check out our Help Center: ht...",
+    "summary": "Get started with Effect Maker at Subscribe and hit the bell to see new videos: ► Check out our Help Center: ht...",
     "fingerprint": "64a5a6ab90f5c0ecdd1fa79148f83138aef4753a",
     "created_at": "2026-03-16 12:53:51"
   },
@@ -79,7 +79,7 @@
     "title": "OBS Studio 32.1.0",
     "url": "https://github.com/obsproject/obs-studio/releases/tag/32.1.0",
     "published_at": "2026-03-11T20:24:32+00:00",
-    "summary": "32.1 New Features Added new Audio Mixer Added WebRTC Simulcast Support Added missing undo/redo actions for scene items Scale filtering, blending mode, blending...",
+    "summary": "OBS Studio 32.1.0 の更新です。変更点の詳細は公式リリースノートで確認できます。",
     "fingerprint": "76f1f31d93c5ca9231f8120f310babd614fa78f3",
     "created_at": "2026-03-16 12:53:51"
   },
@@ -91,7 +91,7 @@
     "title": "OBS Studio 32.1.0 Release Candidate 4",
     "url": "https://github.com/obsproject/obs-studio/releases/tag/32.1.0-rc4",
     "published_at": "2026-03-05T23:56:33+00:00",
-    "summary": "Release Candidate 4 Changes Fixed an issue with the certificate used to sign Windows releases Release Candidate 3 Changes Fixed an issue in obs-websocket where...",
+    "summary": "OBS Studio 32.1.0 Release Candidate 4 の更新です。変更点の詳細は公式リリースノートで確認できます。",
     "fingerprint": "11ed91969c3c3dc99a4cc9b8e05e2cd6f0169309",
     "created_at": "2026-03-16 12:53:51"
   },
@@ -103,7 +103,7 @@
     "title": "OBS Studio 32.1.0 Release Candidate 3",
     "url": "https://github.com/obsproject/obs-studio/releases/tag/32.1.0-rc3",
     "published_at": "2026-03-04T23:01:50+00:00",
-    "summary": "Release Candidate 3 Changes Fixed an issue in obs-websocket where some sources (inputs) could not be updated Release Candidate 2 Changes Fixed a crash if some s...",
+    "summary": "OBS Studio 32.1.0 Release Candidate 3 の更新です。変更点の詳細は公式リリースノートで確認できます。",
     "fingerprint": "e7f2e360d496889622ea2691420f6348d4c4c919",
     "created_at": "2026-03-16 12:53:51"
   }

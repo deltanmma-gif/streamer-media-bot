@@ -14,10 +14,12 @@ SOURCE_URLS = {
     "Twitch Blog": "https://blog.twitch.tv/",
 }
 
-def clean_text(text: str | None, max_len: int = 160) -> str:
+def clean_text(text: str | None, max_len: int = 140) -> str:
     t = html.unescape(text or "")
     t = re.sub(r"<[^>]+>", " ", t)
+    t = re.sub(r"`[^`]+`", " ", t)
     t = re.sub(r"\[[^\]]+\]", " ", t)
+    t = re.sub(r"https?://\S+", " ", t)
     t = re.sub(r"\s+", " ", t).strip()
     if len(t) > max_len:
         t = t[:max_len].rstrip(" ,.;:-") + "..."
@@ -26,13 +28,35 @@ def clean_text(text: str | None, max_len: int = 160) -> str:
 def detect_pk_column(conn: sqlite3.Connection) -> str | None:
     rows = conn.execute("PRAGMA table_info(items)").fetchall()
     for row in rows:
-        # pragma: cid, name, type, notnull, dflt_value, pk
         if row[5]:
             return row[1]
     names = [row[1] for row in rows]
     if "id" in names:
         return "id"
     return None
+
+def normalize_summary(source_name: str, title: str, summary: str) -> str:
+    title_clean = clean_text(title, 100)
+    summary_clean = clean_text(summary, 140)
+
+    lower = (summary or "").lower()
+
+    if source_name == "OBS Studio Releases":
+        return f"{title_clean} の更新です。変更点の詳細は公式リリースノートで確認できます。"
+
+    if source_name == "TeamYouTube":
+        if len(summary_clean) < 20:
+            return f"{title_clean} に関する更新です。配信動画運用への影響を確認してください。"
+        if "tutorial" in lower or "watch" in lower or "learn" in lower:
+            return f"{title_clean} に関する案内です。配信設定や運用改善の参考になります。"
+        return summary_clean
+
+    if source_name == "Twitch Blog":
+        if len(summary_clean) < 20:
+            return f"{title_clean} に関する更新です。配信導線やクリップ運用への影響を確認してください。"
+        return summary_clean
+
+    return summary_clean or f"{title_clean} の要点を確認できるよう準備中です。"
 
 def main() -> None:
     if not DB_PATH.exists():
@@ -67,9 +91,7 @@ def main() -> None:
         if isinstance(url, str) and "example.com" in url:
             new_url = SOURCE_URLS.get(source_name, url)
 
-        new_summary = clean_text(summary, 160)
-        if not new_summary:
-            new_summary = clean_text(title, 120) or "要点を確認できるよう準備中です。"
+        new_summary = normalize_summary(source_name, title, summary)
 
         conn.execute(update_sql, (new_url, new_summary, pk))
         count += 1
