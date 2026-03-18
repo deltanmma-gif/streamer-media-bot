@@ -1,5 +1,29 @@
 [
   {
+    "id": 382,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "YouTube for Artists Masterclass: Making Money on YouTube with AJ Ramos",
+    "url": "https://www.youtube.com/watch",
+    "published_at": "2026-03-18T18:18:43+00:00",
+    "summary": "In this YouTube for Artists Masterclass, Head of Artist Partnerships Latin Music & Culture, AJ Ramos, will teach you how to navigate revenue...",
+    "fingerprint": "3d055baf0dfcf88164b3581c102c5ba58fff1f49",
+    "created_at": "2026-03-18 19:52:43"
+  },
+  {
+    "id": 383,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "HOW TO: Create a Face Paint Effect in Effect Maker with @royer.louise",
+    "url": "https://www.youtube.com/watch",
+    "published_at": "2026-03-18T16:42:39+00:00",
+    "summary": "Get started with Effect Maker at Try out the Fairy Look effect by @royer.louise here: Subscribe and hit the bell to see new videos: ► Check...",
+    "fingerprint": "51461e2fa914415fbfef53352dea2ca62507b9bd",
+    "created_at": "2026-03-18 19:52:43"
+  },
+  {
     "id": 107,
     "source_id": "youtube_teamyoutube",
     "source_name": "TeamYouTube",
