@@ -1,24 +1,24 @@
 # 今日の投稿候補
 
-## 1. 更新整理: YouTube for Artists Masterclass: Making Money on YouTube with AJ Ramos
+## 1. 更新整理: HOW TO: Add Objects when you Remix a Short 🪄
+
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/Ge0Xs3t4Ft4
+
+- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは HOW TO: Add Objects when you Remix a Short 🪄。
+- 画像: assets/cards/first-3-minutes-hook.png
+
+## 2. 更新整理: YouTube for Artists Masterclass: Making Money on YouTube with AJ Ramos
 
 TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
 
 - ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは YouTube for Artists Masterclass: Making Money on YouTube with AJ Ramos。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 2. 更新整理: HOW TO: Create a Face Paint Effect in Effect Maker with @royer.louise
+## 3. 更新整理: HOW TO: Create a Face Paint Effect in Effect Maker with @royer.louise
 
 TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
 
 - ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは HOW TO: Create a Face Paint Effect in Effect Maker with @royer.louise。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 3. 更新整理: Understanding Changes in Watch Time
-
-TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
-
-- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Understanding Changes in Watch Time。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ
