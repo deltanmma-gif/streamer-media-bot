@@ -1,24 +1,24 @@
 # 今日の投稿候補
 
-## 1. 更新整理: How To Make an AI Randomizer Effect in Effect Maker with @varunraikar
+## 1. 更新整理: Twitchcon 2026 Building The Future
+
+Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/03/25/twitchcon-2026-building-the-future/
+
+- ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは Twitchcon 2026 Building The Future。
+- 画像: assets/cards/first-3-minutes-hook.png
+
+## 2. 更新整理: How To Make an AI Randomizer Effect in Effect Maker with @varunraikar
 
 TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
 
 - ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは How To Make an AI Randomizer Effect in Effect Maker with @varunraikar。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 2. 更新整理: Effect Maker Tutorial: Visual Scripting 102 with @haleycatpawz
+## 3. 更新整理: Effect Maker Tutorial: Visual Scripting 102 with @haleycatpawz
 
 TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
 
 - ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Effect Maker Tutorial: Visual Scripting 102 with @haleycatpawz。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 3. 更新整理: HOW TO: ✨Reimagine✨ Shorts with Remix 🪄
-
-TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/M4huZrY1txo
-
-- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは HOW TO: ✨Reimagine✨ Shorts with Remix 🪄。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ
