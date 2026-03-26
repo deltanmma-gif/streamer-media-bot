@@ -154,17 +154,5 @@
     "summary": "切り抜き導線と通知文に関係する変更を整理",
     "fingerprint": "demo-2-twitch_blog",
     "created_at": "2026-03-15 15:59:21"
-  },
-  {
-    "id": 22,
-    "source_id": "obs_releases",
-    "source_name": "OBS Studio Releases",
-    "category": "obs",
-    "title": "OBS Studio 32.1.0",
-    "url": "https://github.com/obsproject/obs-studio/releases/tag/32.1.0",
-    "published_at": "2026-03-11T20:24:32+00:00",
-    "summary": "OBS Studio 32.1.0 の更新です。変更点の詳細は公式リリースノートで確認できます。",
-    "fingerprint": "76f1f31d93c5ca9231f8120f310babd614fa78f3",
-    "created_at": "2026-03-16 12:53:51"
   }
 ]
