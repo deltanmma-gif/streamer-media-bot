@@ -142,17 +142,5 @@
     "summary": "Get started with Effect Maker at Subscribe and hit the bell to see new videos: ► Check out our Help Center: ht...",
     "fingerprint": "64a5a6ab90f5c0ecdd1fa79148f83138aef4753a",
     "created_at": "2026-03-16 12:53:51"
-  },
-  {
-    "id": 3,
-    "source_id": "twitch_blog",
-    "source_name": "Twitch Blog",
-    "category": "twitch",
-    "title": "Twitch のクリップ導線改善を見直すための更新",
-    "url": "https://blog.twitch.tv/",
-    "published_at": "2026-03-13T15:59:21.615536+00:00",
-    "summary": "切り抜き導線と通知文に関係する変更を整理",
-    "fingerprint": "demo-2-twitch_blog",
-    "created_at": "2026-03-15 15:59:21"
   }
 ]
