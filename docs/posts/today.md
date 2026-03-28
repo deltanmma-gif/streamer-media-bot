@@ -1,24 +1,24 @@
 # 今日の投稿候補
 
-## 1. 更新整理: Twitchcon 2026 Building The Future
+## 1. 更新整理: Shopping Affiliate Eligibility Expansion 🛍️, Creator Voice Replies Update, and more! #shortsroundup
 
-Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/03/25/twitchcon-2026-building-the-future/
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/TWVvHEDzxB8
 
-- ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは Twitchcon 2026 Building The Future。
+- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Shopping Affiliate Eligibility Expansion 🛍️, Creator Voice Replies Update, and more! #shortsroundup。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 2. 更新整理: How To Make an AI Randomizer Effect in Effect Maker with @varunraikar
+## 2. 更新整理: Shopping Affiliate Program Expansion, Creator Voice Replies, and more | Creator Roundup
 
 TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
 
-- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは How To Make an AI Randomizer Effect in Effect Maker with @varunraikar。
+- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Shopping Affiliate Program Expansion, Creator Voice Replies, and more | Creator Roundup。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 3. 更新整理: Effect Maker Tutorial: Visual Scripting 102 with @haleycatpawz
+## 3. 更新整理: Unlock a new level of creativity with the ability to make effects that turn selfies into videos! 🎬
 
-TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/CsoIfyjHjAY
 
-- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Effect Maker Tutorial: Visual Scripting 102 with @haleycatpawz。
+- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Unlock a new level of creativity with the ability to make effects that turn selfies into videos! 🎬。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ
