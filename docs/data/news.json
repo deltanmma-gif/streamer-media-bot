@@ -142,17 +142,5 @@
     "summary": "Get started with Effect Maker at Try out the Vaporwave Effect by @varunraikar here:",
     "fingerprint": "28d4933d87ac85906bd61bac3013a842429d2c71",
     "created_at": "2026-03-16 19:55:52"
-  },
-  {
-    "id": 1,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "YouTube ライブ配信の管理画面更新まとめ",
-    "url": "https://www.youtube.com/@TeamYouTube",
-    "published_at": "2026-03-15T15:59:21.615536+00:00",
-    "summary": "YouTube ライブ配信の管理画面更新まとめ に関する更新です。配信動画運用への影響を確認してください。",
-    "fingerprint": "demo-0-youtube_teamyoutube",
-    "created_at": "2026-03-15 15:59:21"
   }
 ]
