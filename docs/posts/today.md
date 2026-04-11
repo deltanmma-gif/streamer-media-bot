@@ -14,21 +14,14 @@ OBS Studio Releases の更新を短く整理しました。要点だけ先に確
 - ALT: OBS Studio Releases の更新要点を整理したカード画像。タイトルは OBS Studio 32.1.1。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 3. 更新整理: Shopping Affiliate Eligibility Expansion 🛍️, Creator Voice Replies Update, and more! #shortsroundup
-
-TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/TWVvHEDzxB8
-
-- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Shopping Affiliate Eligibility Expansion 🛍️, Creator Voice Replies Update, and more! #shortsroundup。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ
+## 3. 保存版: 初見離脱を減らす冒頭3分テンプレ
 
 配信前後で使い回せるように、初見離脱を減らす冒頭3分テンプレ を1枚にまとめました。
 
 - ALT: 保存版カード。タイトルは 初見離脱を減らす冒頭3分テンプレ。箇条書きで手順を5つ掲載。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 5. 保存版: クリックされやすい配信タイトル5原則
+## 4. 保存版: クリックされやすい配信タイトル5原則
 
 配信前後で使い回せるように、クリックされやすい配信タイトル5原則 を1枚にまとめました。
 

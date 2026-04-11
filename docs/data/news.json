@@ -22,41 +22,5 @@
     "summary": "OBS Studio 32.1.1 の更新です。変更点の詳細は公式リリースノートで確認できます。",
     "fingerprint": "f2b1251514790224c84296ac178edab20f2caf20",
     "created_at": "2026-04-03 17:54:01"
-  },
-  {
-    "id": 882,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "Shopping Affiliate Eligibility Expansion 🛍️, Creator Voice Replies Update, and more! #shortsroundup",
-    "url": "https://www.youtube.com/shorts/TWVvHEDzxB8",
-    "published_at": "2026-03-27T20:25:52+00:00",
-    "summary": "Check out our longer RoundUp linked in this Short for even more news and updates!",
-    "fingerprint": "019b42d25eb0b96e3350036dfd5be88ba3e7140c",
-    "created_at": "2026-03-28 17:48:40"
-  },
-  {
-    "id": 883,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "Shopping Affiliate Program Expansion, Creator Voice Replies, and more | Creator Roundup",
-    "url": "https://www.youtube.com/watch",
-    "published_at": "2026-03-27T20:25:32+00:00",
-    "summary": "Shopping Affiliate Program Expansion, Creator Voice Replies, and more | Creator Roundup に関する案内です。配信設定や運用改善の参考になります。",
-    "fingerprint": "9f0726d71763b90a88a5b462f58de6a5c6aa7026",
-    "created_at": "2026-03-28 17:48:40"
-  },
-  {
-    "id": 884,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "Unlock a new level of creativity with the ability to make effects that turn selfies into videos! 🎬",
-    "url": "https://www.youtube.com/shorts/CsoIfyjHjAY",
-    "published_at": "2026-03-27T19:16:46+00:00",
-    "summary": "We've also expanded access to Effect Maker so more creators can build effects. Try it out here ➡️ effects.youtube.com Availability varies by...",
-    "fingerprint": "0b10a7400753ff2c530d7289c363f9062520e3ea",
-    "created_at": "2026-03-28 17:48:40"
   }
 ]
