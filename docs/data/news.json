@@ -10,17 +10,5 @@
     "summary": "Twitch Blog の更新ページ候補",
     "fingerprint": "d0a2efe535260911edba7b3379ca8f39a579b467",
     "created_at": "2026-04-06 18:07:33"
-  },
-  {
-    "id": 1197,
-    "source_id": "obs_releases",
-    "source_name": "OBS Studio Releases",
-    "category": "obs",
-    "title": "OBS Studio 32.1.1",
-    "url": "https://github.com/obsproject/obs-studio/releases/tag/32.1.1",
-    "published_at": "2026-04-02T19:54:40+00:00",
-    "summary": "OBS Studio 32.1.1 の更新です。変更点の詳細は公式リリースノートで確認できます。",
-    "fingerprint": "f2b1251514790224c84296ac178edab20f2caf20",
-    "created_at": "2026-04-03 17:54:01"
   }
 ]

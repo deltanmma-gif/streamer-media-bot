@@ -6,12 +6,6 @@
     "image_path": "assets/cards/first-3-minutes-hook.png"
   },
   {
-    "headline": "更新整理: OBS Studio 32.1.1",
-    "body": "OBS Studio Releases の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://github.com/obsproject/obs-studio/releases/tag/32.1.1",
-    "alt_text": "OBS Studio Releases の更新要点を整理したカード画像。タイトルは OBS Studio 32.1.1。",
-    "image_path": "assets/cards/first-3-minutes-hook.png"
-  },
-  {
     "headline": "保存版: 初見離脱を減らす冒頭3分テンプレ",
     "body": "配信前後で使い回せるように、初見離脱を減らす冒頭3分テンプレ を1枚にまとめました。",
     "alt_text": "保存版カード。タイトルは 初見離脱を減らす冒頭3分テンプレ。箇条書きで手順を5つ掲載。",
