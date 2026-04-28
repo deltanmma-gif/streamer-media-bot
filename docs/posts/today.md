@@ -1,24 +1,24 @@
 # 今日の投稿候補
 
-## 1. 更新整理: OBS Studio 32.1.2
+## 1. 更新整理: Expanding Effect Maker, Higher Res Thumbnails & more #shortsroundup
+
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/UXiWel59TMs
+
+- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Expanding Effect Maker, Higher Res Thumbnails & more #shortsroundup。
+- 画像: assets/cards/first-3-minutes-hook.png
+
+## 2. 更新整理: Creator Partnerships, Channel Insights Sharing & more | Creator Roundup
+
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
+
+- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Creator Partnerships, Channel Insights Sharing & more | Creator Roundup。
+- 画像: assets/cards/first-3-minutes-hook.png
+
+## 3. 更新整理: OBS Studio 32.1.2
 
 OBS Studio Releases の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://github.com/obsproject/obs-studio/releases/tag/32.1.2
 
 - ALT: OBS Studio Releases の更新要点を整理したカード画像。タイトルは OBS Studio 32.1.2。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 2. 更新整理: How to Create an AI Head Gesture Quiz in Effect Maker with @varunraikar
-
-TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
-
-- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは How to Create an AI Head Gesture Quiz in Effect Maker with @varunraikar。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 3. 更新整理: HOW TO: Create a Randomized Prediction Effect with @royer.louise
-
-TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
-
-- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは HOW TO: Create a Randomized Prediction Effect with @royer.louise。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ

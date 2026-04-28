@@ -1,5 +1,29 @@
 [
   {
+    "id": 2432,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "Expanding Effect Maker, Higher Res Thumbnails & more #shortsroundup",
+    "url": "https://www.youtube.com/shorts/UXiWel59TMs",
+    "published_at": "2026-04-27T20:02:19+00:00",
+    "summary": "Subscribe and hit the bell to see new videos: ► Check out our Help Center: ► Check out the Creator Insider channel:",
+    "fingerprint": "470bb5480dcb9220361b3927823cb65d964a1411",
+    "created_at": "2026-04-28 18:54:42"
+  },
+  {
+    "id": 2433,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "Creator Partnerships, Channel Insights Sharing & more | Creator Roundup",
+    "url": "https://www.youtube.com/watch",
+    "published_at": "2026-04-27T20:01:35+00:00",
+    "summary": "Catch up on all the top Creator news from the past month, including trending topics and product updates. Tune in for new episodes each month...",
+    "fingerprint": "914555240308e1aeec2ee09a5ffc63db0d994059",
+    "created_at": "2026-04-28 18:54:42"
+  },
+  {
     "id": 2147,
     "source_id": "obs_releases",
     "source_name": "OBS Studio Releases",
