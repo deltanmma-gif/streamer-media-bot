@@ -1,5 +1,17 @@
 [
   {
+    "id": 2482,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "HOW TO: Add a Countdown to your Livestream ⏱️🎊",
+    "url": "https://www.youtube.com/shorts/NWcBelqTypI",
+    "published_at": "2026-04-29T17:01:36+00:00",
+    "summary": "Countdowns are a fun way to get your viewers hyped for a specific moment in your live or to build anticipation for a special reveal.",
+    "fingerprint": "ae9c7a1e01ea4851abfbe360d645005d8c4b6005",
+    "created_at": "2026-04-29 18:51:10"
+  },
+  {
     "id": 2432,
     "source_id": "youtube_teamyoutube",
     "source_name": "TeamYouTube",
@@ -22,6 +34,18 @@
     "summary": "Catch up on all the top Creator news from the past month, including trending topics and product updates. Tune in for new episodes each month...",
     "fingerprint": "914555240308e1aeec2ee09a5ffc63db0d994059",
     "created_at": "2026-04-28 18:54:42"
+  },
+  {
+    "id": 2484,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "Thumbnail Updates, Effect Maker Expansion, Test Effects Before Going Live & more | Creator Roundup",
+    "url": "https://www.youtube.com/watch",
+    "published_at": "2026-04-27T20:01:35+00:00",
+    "summary": "Catch up on all the top Creator news from the past month, including trending topics and product updates. Tune in for new episodes each month...",
+    "fingerprint": "a526cee658f55f73cb084fb7b513d5758401ff65",
+    "created_at": "2026-04-29 18:51:10"
   },
   {
     "id": 2147,
