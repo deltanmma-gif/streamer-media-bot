@@ -58,29 +58,5 @@
     "summary": "Catch up on all the top Creator news from the past month, including trending topics and product updates. Tune in for new episodes each month...",
     "fingerprint": "a526cee658f55f73cb084fb7b513d5758401ff65",
     "created_at": "2026-04-29 18:51:10"
-  },
-  {
-    "id": 2147,
-    "source_id": "obs_releases",
-    "source_name": "OBS Studio Releases",
-    "category": "obs",
-    "title": "OBS Studio 32.1.2",
-    "url": "https://github.com/obsproject/obs-studio/releases/tag/32.1.2",
-    "published_at": "2026-04-21T20:10:35+00:00",
-    "summary": "OBS Studio 32.1.2 の更新です。変更点の詳細は公式リリースノートで確認できます。",
-    "fingerprint": "8003698f57887e61595514542fc481d00f362feb",
-    "created_at": "2026-04-22 18:14:31"
-  },
-  {
-    "id": 2132,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "How to Create an AI Head Gesture Quiz in Effect Maker with @varunraikar",
-    "url": "https://www.youtube.com/watch",
-    "published_at": "2026-04-21T20:07:41+00:00",
-    "summary": "How to Create an AI Head Gesture Quiz in Effect Maker with @varunraikar に関する案内です。配信設定や運用改善の参考になります。",
-    "fingerprint": "42c889a2a4e9a89fa7c56d6f6b8806291554b06a",
-    "created_at": "2026-04-22 18:14:31"
   }
 ]
