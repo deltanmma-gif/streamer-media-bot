@@ -1,24 +1,24 @@
 # 今日の投稿候補
 
-## 1. 更新整理: Twitchcon Europe 2026 Sponsors And Show Floor
+## 1. 更新整理: How to Create a Time Traveler Effect in Effect Maker with @varunraikar
+
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
+
+- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは How to Create a Time Traveler Effect in Effect Maker with @varunraikar。
+- 画像: assets/cards/first-3-minutes-hook.png
+
+## 2. 更新整理: Twitchcon Europe 2026 Sponsors And Show Floor
 
 Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/05/01/twitchcon-europe-2026-sponsors-and-show-floor/
 
 - ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは Twitchcon Europe 2026 Sponsors And Show Floor。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 2. 更新整理: HOW TO: Add a Countdown to your Livestream ⏱️🎊
+## 3. 更新整理: HOW TO: Add a Countdown to your Livestream ⏱️🎊
 
 TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/NWcBelqTypI
 
 - ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは HOW TO: Add a Countdown to your Livestream ⏱️🎊。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 3. 更新整理: Expanding Effect Maker, Higher Res Thumbnails & more #shortsroundup
-
-TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/UXiWel59TMs
-
-- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Expanding Effect Maker, Higher Res Thumbnails & more #shortsroundup。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ
