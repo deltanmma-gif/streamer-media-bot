@@ -1,24 +1,24 @@
 # 今日の投稿候補
 
-## 1. 更新整理: 🛒 Tag Your Videos and Earn Extra with YouTube Shopping | Step by Step Guide
+## 1. 更新整理: 🚨 No New Content Ideas? Earn from Your Old Videos with YouTube Shopping | Step by Step Guide
+
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/eKDfCwp2fXw
+
+- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは 🚨 No New Content Ideas? Earn from Your Old Videos with YouTube Shopping | Step by Step Guide。
+- 画像: assets/cards/first-3-minutes-hook.png
+
+## 2. 更新整理: 🛒 Tag Your Videos and Earn Extra with YouTube Shopping | Step by Step Guide
 
 TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/i4naTdh0gG0
 
 - ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは 🛒 Tag Your Videos and Earn Extra with YouTube Shopping | Step by Step Guide。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 2. 更新整理: 🛍️ Learn How to Enroll into YouTube Shopping to Earn Extra | Step by Step Guide
+## 3. 更新整理: 🛍️ Learn How to Enroll into YouTube Shopping to Earn Extra | Step by Step Guide
 
 TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/Gnir9YQ18NU
 
 - ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは 🛍️ Learn How to Enroll into YouTube Shopping to Earn Extra | Step by Step Guide。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 3. 更新整理: How to Create a Time Traveler Effect in Effect Maker with @varunraikar
-
-TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
-
-- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは How to Create a Time Traveler Effect in Effect Maker with @varunraikar。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ
