@@ -1,5 +1,17 @@
 [
   {
+    "id": 3158,
+    "source_id": "twitch_blog",
+    "source_name": "Twitch Blog",
+    "category": "twitch",
+    "title": "Ani May Turbo Offer",
+    "url": "https://blog.twitch.tv/en/2026/05/12/ani-may-turbo-offer/",
+    "published_at": "2026-05-12T15:29:10+00:00",
+    "summary": "Twitch Blog の更新ページ候補",
+    "fingerprint": "22c20a0935882ba0ecf98425a4acacbffb641992",
+    "created_at": "2026-05-12 19:13:00"
+  },
+  {
     "id": 3108,
     "source_id": "twitch_blog",
     "source_name": "Twitch Blog",
@@ -81,42 +93,6 @@
     "published_at": "2026-04-29T17:01:36+00:00",
     "summary": "Countdowns are a fun way to get your viewers hyped for a specific moment in your live or to build anticipation for a special reveal.",
     "fingerprint": "ae9c7a1e01ea4851abfbe360d645005d8c4b6005",
-    "created_at": "2026-04-29 18:51:10"
-  },
-  {
-    "id": 2432,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "Expanding Effect Maker, Higher Res Thumbnails & more #shortsroundup",
-    "url": "https://www.youtube.com/shorts/UXiWel59TMs",
-    "published_at": "2026-04-27T20:02:19+00:00",
-    "summary": "Subscribe and hit the bell to see new videos: ► Check out our Help Center: ► Check out the Creator Insider channel:",
-    "fingerprint": "470bb5480dcb9220361b3927823cb65d964a1411",
-    "created_at": "2026-04-28 18:54:42"
-  },
-  {
-    "id": 2433,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "Creator Partnerships, Channel Insights Sharing & more | Creator Roundup",
-    "url": "https://www.youtube.com/watch",
-    "published_at": "2026-04-27T20:01:35+00:00",
-    "summary": "Catch up on all the top Creator news from the past month, including trending topics and product updates. Tune in for new episodes each month...",
-    "fingerprint": "914555240308e1aeec2ee09a5ffc63db0d994059",
-    "created_at": "2026-04-28 18:54:42"
-  },
-  {
-    "id": 2484,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "Thumbnail Updates, Effect Maker Expansion, Test Effects Before Going Live & more | Creator Roundup",
-    "url": "https://www.youtube.com/watch",
-    "published_at": "2026-04-27T20:01:35+00:00",
-    "summary": "Catch up on all the top Creator news from the past month, including trending topics and product updates. Tune in for new episodes each month...",
-    "fingerprint": "a526cee658f55f73cb084fb7b513d5758401ff65",
     "created_at": "2026-04-29 18:51:10"
   }
 ]

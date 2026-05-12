@@ -1,24 +1,24 @@
 # 今日の投稿候補
 
-## 1. 更新整理: The Irl Takeover Is Here
+## 1. 更新整理: Ani May Turbo Offer
+
+Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/05/12/ani-may-turbo-offer/
+
+- ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは Ani May Turbo Offer。
+- 画像: assets/cards/first-3-minutes-hook.png
+
+## 2. 更新整理: The Irl Takeover Is Here
 
 Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/05/11/the-irl-takeover-is-here/
 
 - ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは The Irl Takeover Is Here。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 2. 更新整理: 🚨 No New Content Ideas? Earn from Your Old Videos with YouTube Shopping | Step by Step Guide
+## 3. 更新整理: 🚨 No New Content Ideas? Earn from Your Old Videos with YouTube Shopping | Step by Step Guide
 
 TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/eKDfCwp2fXw
 
 - ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは 🚨 No New Content Ideas? Earn from Your Old Videos with YouTube Shopping | Step by Step Guide。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 3. 更新整理: 🛒 Tag Your Videos and Earn Extra with YouTube Shopping | Step by Step Guide
-
-TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/i4naTdh0gG0
-
-- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは 🛒 Tag Your Videos and Earn Extra with YouTube Shopping | Step by Step Guide。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ
