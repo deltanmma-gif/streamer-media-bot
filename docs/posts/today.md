@@ -1,24 +1,24 @@
 # 今日の投稿候補
 
-## 1. 更新整理: HOW TO: Create an Old Soul vs New Gen Slider Effect with @royer.louise
+## 1. 更新整理: Get Creative with YouTube Shorts Remix 🪄
 
-TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/nKdKq4NX1tg
 
-- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは HOW TO: Create an Old Soul vs New Gen Slider Effect with @royer.louise。
+- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Get Creative with YouTube Shorts Remix 🪄。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 2. 更新整理: Ani May Turbo Offer
+## 2. 更新整理: New Features
 
-Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/05/13/ani-may-turbo-offer/
+Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/tags/new-features/
 
-- ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは Ani May Turbo Offer。
+- ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは New Features。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 3. 更新整理: Monetization For All
+## 3. 更新整理: New Ways To Turn Your Community S Participation Into Earnings
 
-Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/05/13/monetization-for-all/
+Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/05/19/new-ways-to-turn-your-community-s-participation-into-earnings/
 
-- ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは Monetization For All。
+- ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは New Ways To Turn Your Community S Participation Into Earnings。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ

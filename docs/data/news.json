@@ -1,5 +1,41 @@
 [
   {
+    "id": 3482,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "Get Creative with YouTube Shorts Remix 🪄",
+    "url": "https://www.youtube.com/shorts/nKdKq4NX1tg",
+    "published_at": "2026-05-19T17:51:30+00:00",
+    "summary": "Get Creative with YouTube Shorts Remix 🪄 に関する案内です。配信設定や運用改善の参考になります。",
+    "fingerprint": "92a367dd22d12327f1afe8321e66d77e50b21767",
+    "created_at": "2026-05-19 19:19:22"
+  },
+  {
+    "id": 3507,
+    "source_id": "twitch_blog",
+    "source_name": "Twitch Blog",
+    "category": "twitch",
+    "title": "New Features",
+    "url": "https://blog.twitch.tv/en/tags/new-features/",
+    "published_at": "2026-05-19T17:08:43+00:00",
+    "summary": "Twitch Blog の更新ページ候補",
+    "fingerprint": "846caa16f757d5feb1514af11d9c3a040c8ef6de",
+    "created_at": "2026-05-19 19:19:22"
+  },
+  {
+    "id": 3508,
+    "source_id": "twitch_blog",
+    "source_name": "Twitch Blog",
+    "category": "twitch",
+    "title": "New Ways To Turn Your Community S Participation Into Earnings",
+    "url": "https://blog.twitch.tv/en/2026/05/19/new-ways-to-turn-your-community-s-participation-into-earnings/",
+    "published_at": "2026-05-19T17:08:43+00:00",
+    "summary": "Twitch Blog の更新ページ候補",
+    "fingerprint": "132829e6f6b28d99200ebf055284d86f5d67ead8",
+    "created_at": "2026-05-19 19:19:22"
+  },
+  {
     "id": 3282,
     "source_id": "youtube_teamyoutube",
     "source_name": "TeamYouTube",
