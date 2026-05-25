@@ -94,17 +94,5 @@
     "summary": "Twitch Blog の更新ページ候補",
     "fingerprint": "22c20a0935882ba0ecf98425a4acacbffb641992",
     "created_at": "2026-05-12 19:13:00"
-  },
-  {
-    "id": 3108,
-    "source_id": "twitch_blog",
-    "source_name": "Twitch Blog",
-    "category": "twitch",
-    "title": "The Irl Takeover Is Here",
-    "url": "https://blog.twitch.tv/en/2026/05/11/the-irl-takeover-is-here/",
-    "published_at": "2026-05-11T15:47:53+00:00",
-    "summary": "Twitch Blog の更新ページ候補",
-    "fingerprint": "865c1c1c3c746a96b23567246ead99b6e2bacc6b",
-    "created_at": "2026-05-11 19:13:13"
   }
 ]
