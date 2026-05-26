@@ -82,17 +82,5 @@
     "summary": "Twitch Blog の更新ページ候補",
     "fingerprint": "31ff82ba48a9032af83ee1cc34b1a0039c4f1330",
     "created_at": "2026-05-13 19:10:48"
-  },
-  {
-    "id": 3158,
-    "source_id": "twitch_blog",
-    "source_name": "Twitch Blog",
-    "category": "twitch",
-    "title": "Ani May Turbo Offer",
-    "url": "https://blog.twitch.tv/en/2026/05/12/ani-may-turbo-offer/",
-    "published_at": "2026-05-12T15:29:10+00:00",
-    "summary": "Twitch Blog の更新ページ候補",
-    "fingerprint": "22c20a0935882ba0ecf98425a4acacbffb641992",
-    "created_at": "2026-05-12 19:13:00"
   }
 ]
