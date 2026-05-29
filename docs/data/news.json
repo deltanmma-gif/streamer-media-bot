@@ -1,5 +1,17 @@
 [
   {
+    "id": 3982,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "Welcome to THE BRAND DEAL DESK",
+    "url": "https://www.youtube.com/shorts/IliDySp8fDI",
+    "published_at": "2026-05-28T21:03:59+00:00",
+    "summary": "Creators, are you ready to level up your brand partnerships? 🚀 Enter The Brand Deal Desk — our brand new 5-part series produced to help give...",
+    "fingerprint": "a2172433ccb42e26cb1beca06e989b7c6e3451e3",
+    "created_at": "2026-05-29 19:42:22"
+  },
+  {
     "id": 3932,
     "source_id": "youtube_teamyoutube",
     "source_name": "TeamYouTube",
@@ -70,17 +82,5 @@
     "summary": "Twitch Blog の更新ページ候補",
     "fingerprint": "132829e6f6b28d99200ebf055284d86f5d67ead8",
     "created_at": "2026-05-19 19:19:22"
-  },
-  {
-    "id": 3282,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "HOW TO: Create an Old Soul vs New Gen Slider Effect with @royer.louise",
-    "url": "https://www.youtube.com/watch",
-    "published_at": "2026-05-14T21:04:46+00:00",
-    "summary": "Get started with Effect Maker at Try out the Throwback vs. Modern effect by @royer.louise here: Subscribe and hit the bell to see new videos...",
-    "fingerprint": "f072d79659079a62331fce48414d77af9a1cc79a",
-    "created_at": "2026-05-15 18:57:41"
   }
 ]
