@@ -1,5 +1,17 @@
 [
   {
+    "id": 4132,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "THE BRAND DEAL DESK: Be That Pitch",
+    "url": "https://www.youtube.com/watch",
+    "published_at": "2026-06-01T16:00:07+00:00",
+    "summary": "THE BRAND DEAL DESK: Be That Pitch に関する案内です。配信設定や運用改善の参考になります。",
+    "fingerprint": "146b611141f2855172f252459dca39753323437f",
+    "created_at": "2026-06-01 21:05:25"
+  },
+  {
     "id": 4057,
     "source_id": "twitch_blog",
     "source_name": "Twitch Blog",
