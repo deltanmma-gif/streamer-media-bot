@@ -1,24 +1,24 @@
 # 今日の投稿候補
 
-## 1. 更新整理: THE BRAND DEAL DESK: Be That Pitch
+## 1. 更新整理: More Minecraft More Challenges
+
+Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/06/05/more-minecraft-more-challenges/
+
+- ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは More Minecraft More Challenges。
+- 画像: assets/cards/first-3-minutes-hook.png
+
+## 2. 更新整理: THE BRAND DEAL DESK: Be That Pitch
 
 TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
 
 - ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは THE BRAND DEAL DESK: Be That Pitch。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 2. 更新整理: Everything We Announced At Twitchcon Rotterdam 2026
+## 3. 更新整理: Everything We Announced At Twitchcon Rotterdam 2026
 
 Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/05/30/everything-we-announced-at-twitchcon-rotterdam-2026/
 
 - ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは Everything We Announced At Twitchcon Rotterdam 2026。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 3. 更新整理: Update to YouTube Shorts Remix, NEW Live Countdown Sticker and more! #shortsroundup
-
-TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/HwxUp4EWTDw
-
-- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Update to YouTube Shorts Remix, NEW Live Countdown Sticker and more! #shortsroundup。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ
