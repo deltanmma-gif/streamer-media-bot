@@ -1,5 +1,17 @@
 [
   {
+    "id": 4607,
+    "source_id": "twitch_blog",
+    "source_name": "Twitch Blog",
+    "category": "twitch",
+    "title": "Ways To Watch Football Fest 2026 On Twitch",
+    "url": "https://blog.twitch.tv/en/2026/06/10/ways-to-watch-football-fest-2026-on-twitch/",
+    "published_at": "2026-06-10T19:04:34+00:00",
+    "summary": "Twitch Blog の更新ページ候補",
+    "fingerprint": "922f7ed3376c90cb0d04fe01519f51f23b667a48",
+    "created_at": "2026-06-10 19:45:18"
+  },
+  {
     "id": 4532,
     "source_id": "youtube_teamyoutube",
     "source_name": "TeamYouTube",
@@ -118,29 +130,5 @@
     "summary": "Need help analyzing your channel’s data? Check out Ask Studio, an AI creative partner right inside YouTube Studio. By using information from...",
     "fingerprint": "83c3ec27af4bba1a2519132101f0917ed7af2807",
     "created_at": "2026-05-28 19:45:59"
-  },
-  {
-    "id": 3882,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "Let's go to the mall! with @KevinStratvert",
-    "url": "https://www.youtube.com/shorts/U1-ZH6NVQiQ",
-    "published_at": "2026-05-27T16:00:11+00:00",
-    "summary": "Let's go to the mall! Build it in YouTube Effect Maker with Nano Banana 2, so we can all travel to the 90s.",
-    "fingerprint": "5918c09b7eef04f59c8d7905bf2be5fd5e7c566a",
-    "created_at": "2026-05-27 19:34:11"
-  },
-  {
-    "id": 3883,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "THE BRAND DEAL DESK: The Brand Deal Universe",
-    "url": "https://www.youtube.com/watch",
-    "published_at": "2026-05-26T21:02:26+00:00",
-    "summary": "THE BRAND DEAL DESK: The Brand Deal Universe に関する案内です。配信設定や運用改善の参考になります。",
-    "fingerprint": "b67856126420ceee15ca8e4570be9b3b3f69958f",
-    "created_at": "2026-05-27 19:34:11"
   }
 ]
