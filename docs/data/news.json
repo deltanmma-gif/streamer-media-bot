@@ -1,5 +1,17 @@
 [
   {
+    "id": 4832,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "THE BRAND DEAL DESK: The Magic Middle",
+    "url": "https://www.youtube.com/watch",
+    "published_at": "2026-06-15T16:00:37+00:00",
+    "summary": "THE BRAND DEAL DESK: The Magic Middle に関する案内です。配信設定や運用改善の参考になります。",
+    "fingerprint": "bc594aec1ec729842fc1fd74afa77eba28606562",
+    "created_at": "2026-06-15 20:34:12"
+  },
+  {
     "id": 4607,
     "source_id": "twitch_blog",
     "source_name": "Twitch Blog",
@@ -48,6 +60,18 @@
     "created_at": "2026-06-08 19:36:21"
   },
   {
+    "id": 4834,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "THE BRAND DEAL DESK: Price It Like You Mean It",
+    "url": "https://www.youtube.com/watch",
+    "published_at": "2026-06-08T16:00:21+00:00",
+    "summary": "THE BRAND DEAL DESK: Price It Like You Mean It に関する案内です。配信設定や運用改善の参考になります。",
+    "fingerprint": "df831acc6d9fc01cbb4b4feb57fc21ff15d62f55",
+    "created_at": "2026-06-15 20:34:12"
+  },
+  {
     "id": 4407,
     "source_id": "twitch_blog",
     "source_name": "Twitch Blog",
@@ -58,17 +82,5 @@
     "summary": "Twitch Blog の更新ページ候補",
     "fingerprint": "e717ec662421474dbecfb1d4a891b2b4d199694f",
     "created_at": "2026-06-06 18:41:31"
-  },
-  {
-    "id": 4132,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "THE BRAND DEAL DESK: Be That Pitch",
-    "url": "https://www.youtube.com/watch",
-    "published_at": "2026-06-01T16:00:07+00:00",
-    "summary": "THE BRAND DEAL DESK: Be That Pitch に関する案内です。配信設定や運用改善の参考になります。",
-    "fingerprint": "146b611141f2855172f252459dca39753323437f",
-    "created_at": "2026-06-01 21:05:25"
   }
 ]

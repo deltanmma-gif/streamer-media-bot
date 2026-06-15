@@ -1,24 +1,24 @@
 # 今日の投稿候補
 
-## 1. 更新整理: Ways To Watch Football Fest 2026 On Twitch
+## 1. 更新整理: THE BRAND DEAL DESK: The Magic Middle
+
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
+
+- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは THE BRAND DEAL DESK: The Magic Middle。
+- 画像: assets/cards/first-3-minutes-hook.png
+
+## 2. 更新整理: Ways To Watch Football Fest 2026 On Twitch
 
 Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/06/10/ways-to-watch-football-fest-2026-on-twitch/
 
 - ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは Ways To Watch Football Fest 2026 On Twitch。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 2. 更新整理: Effect Maker Tutorial: Visual Scripting 103 with ‪@haleycatpawz
+## 3. 更新整理: Effect Maker Tutorial: Visual Scripting 103 with ‪@haleycatpawz
 
 TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
 
 - ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Effect Maker Tutorial: Visual Scripting 103 with ‪@haleycatpawz。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 3. 更新整理: Riot Games Is Bringing Bonus Gift Subs To Twitch
-
-Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/06/09/riot-games-is-bringing-bonus-gift-subs-to-twitch/
-
-- ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは Riot Games Is Bringing Bonus Gift Subs To Twitch。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ
