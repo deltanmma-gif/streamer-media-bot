@@ -1,24 +1,24 @@
 # 今日の投稿候補
 
-## 1. 更新整理: Effect Maker Tutorial: Drawing 101 with @varunraikar
+## 1. 更新整理: How to Create a Safari 3D Effect in Effect Maker with @cloves_ar
+
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
+
+- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは How to Create a Safari 3D Effect in Effect Maker with @cloves_ar。
+- 画像: assets/cards/first-3-minutes-hook.png
+
+## 2. 更新整理: Effect Maker Tutorial: Drawing 101 with @varunraikar
 
 TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
 
 - ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Effect Maker Tutorial: Drawing 101 with @varunraikar。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 2. 更新整理: Introducing Dual Format And 2K Streaming On Twitch
+## 3. 更新整理: Introducing Dual Format And 2K Streaming On Twitch
 
 Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/06/17/introducing-dual-format-and-2k-streaming-on-twitch/
 
 - ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは Introducing Dual Format And 2K Streaming On Twitch。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 3. 更新整理: YouTube Shopping Affiliate Program
-
-TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
-
-- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは YouTube Shopping Affiliate Program。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ
