@@ -1,5 +1,17 @@
 [
   {
+    "id": 5097,
+    "source_id": "obs_releases",
+    "source_name": "OBS Studio Releases",
+    "category": "obs",
+    "title": "32.2.0-beta1: OBS Studio 32.2.0 Beta 1",
+    "url": "https://github.com/obsproject/obs-studio/releases/tag/32.2.0-beta1",
+    "published_at": "2026-06-20T18:07:11+00:00",
+    "summary": "32.2.0-beta1: OBS Studio 32.2.0 Beta 1 の更新です。変更点の詳細は公式リリースノートで確認できます。",
+    "fingerprint": "da9eafef5f83d2a7b526cb01f4ffaab9e3cbcb2c",
+    "created_at": "2026-06-20 18:49:28"
+  },
+  {
     "id": 5032,
     "source_id": "youtube_teamyoutube",
     "source_name": "TeamYouTube",
@@ -118,17 +130,5 @@
     "summary": "THE BRAND DEAL DESK: Price It Like You Mean It に関する案内です。配信設定や運用改善の参考になります。",
     "fingerprint": "df831acc6d9fc01cbb4b4feb57fc21ff15d62f55",
     "created_at": "2026-06-15 20:34:12"
-  },
-  {
-    "id": 4407,
-    "source_id": "twitch_blog",
-    "source_name": "Twitch Blog",
-    "category": "twitch",
-    "title": "More Minecraft More Challenges",
-    "url": "https://blog.twitch.tv/en/2026/06/05/more-minecraft-more-challenges/",
-    "published_at": "2026-06-05T22:48:04+00:00",
-    "summary": "Twitch Blog の更新ページ候補",
-    "fingerprint": "e717ec662421474dbecfb1d4a891b2b4d199694f",
-    "created_at": "2026-06-06 18:41:31"
   }
 ]
