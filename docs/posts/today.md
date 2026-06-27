@@ -1,24 +1,24 @@
 # 今日の投稿候補
 
-## 1. 更新整理: HOW TO: Find Trending Sounds 🔥🎵
+## 1. 更新整理: New Ways to Manage Comments, Popular Music on Image Posts, and more! #shortsroundup 🗞️✨
+
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/hTfYKYmWw6o
+
+- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは New Ways to Manage Comments, Popular Music on Image Posts, and more! #shortsroundup 🗞️✨。
+- 画像: assets/cards/first-3-minutes-hook.png
+
+## 2. 更新整理: Music in Posts, Updated Content Tab, and more | Creator Roundup
+
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
+
+- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Music in Posts, Updated Content Tab, and more | Creator Roundup。
+- 画像: assets/cards/first-3-minutes-hook.png
+
+## 3. 更新整理: HOW TO: Find Trending Sounds 🔥🎵
 
 TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/uqyDJ_FxWfc
 
 - ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは HOW TO: Find Trending Sounds 🔥🎵。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 2. 更新整理: YouTube Shopping Affiliate Program 🛍️
-
-TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/i3a8oMot174
-
-- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは YouTube Shopping Affiliate Program 🛍️。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 3. 更新整理: Content Tab in YouTube Studio 📲
-
-TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/HfTNKS49KAM
-
-- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Content Tab in YouTube Studio 📲。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ
