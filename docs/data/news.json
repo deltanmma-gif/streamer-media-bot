@@ -1,5 +1,17 @@
 [
   {
+    "id": 5632,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "YouTube for Artists Masterclass: Going Live on YouTube with Sheniece Charway",
+    "url": "https://www.youtube.com/watch",
+    "published_at": "2026-06-30T19:44:22+00:00",
+    "summary": "In this YouTube for Artists Masterclass, Artist Partnerships Manager, Sheniece Charway, will dig into how to set-up livestreaming, build it...",
+    "fingerprint": "eec710e02fbfa2b2815b029a8f184b7e6ddf026b",
+    "created_at": "2026-07-01 19:13:06"
+  },
+  {
     "id": 5582,
     "source_id": "youtube_teamyoutube",
     "source_name": "TeamYouTube",
@@ -166,41 +178,5 @@
     "summary": "Get started with Effect Maker at Try out the effect Safari Mood effect by @cloves_ar here: youtube.com/effect/6a0f504e-0000-2b64-a970-582429...",
     "fingerprint": "ff10ec370a39c7e9c14d8a26998c0faa8bf2cddc",
     "created_at": "2026-06-19 19:11:35"
-  },
-  {
-    "id": 4932,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "Effect Maker Tutorial: Drawing 101 with @varunraikar",
-    "url": "https://www.youtube.com/watch",
-    "published_at": "2026-06-17T18:28:48+00:00",
-    "summary": "Get started with Effect Maker at Try out the effect Doodle Reveal by ‪@varunraikar here: Subscribe and hit the bell to see new videos: ► Che...",
-    "fingerprint": "b75d0bdbae2c58ef324b9dc37132432c67987281",
-    "created_at": "2026-06-17 19:31:15"
-  },
-  {
-    "id": 4957,
-    "source_id": "twitch_blog",
-    "source_name": "Twitch Blog",
-    "category": "twitch",
-    "title": "Introducing Dual Format And 2K Streaming On Twitch",
-    "url": "https://blog.twitch.tv/en/2026/06/17/introducing-dual-format-and-2k-streaming-on-twitch/",
-    "published_at": "2026-06-17T16:58:41+00:00",
-    "summary": "Twitch Blog の更新ページ候補",
-    "fingerprint": "8810ace8f02108b8aef0fde1298cdfd747de1e46",
-    "created_at": "2026-06-17 19:31:15"
-  },
-  {
-    "id": 4933,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "YouTube Shopping Affiliate Program",
-    "url": "https://www.youtube.com/watch",
-    "published_at": "2026-06-17T16:56:06+00:00",
-    "summary": "YouTube Shopping Affiliate Program に関する案内です。配信設定や運用改善の参考になります。",
-    "fingerprint": "2f8c540bdfbba6a74a82acb3e2d1b69f36e64197",
-    "created_at": "2026-06-17 19:31:15"
   }
 ]
