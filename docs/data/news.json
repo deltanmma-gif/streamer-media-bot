@@ -166,17 +166,5 @@
     "summary": "THE BRAND DEAL DESK: Published. Now What? に関する案内です。配信設定や運用改善の参考になります。",
     "fingerprint": "907e09a10a1dda731f4e6632c016cd7a323e2fa6",
     "created_at": "2026-06-22 20:16:13"
-  },
-  {
-    "id": 5097,
-    "source_id": "obs_releases",
-    "source_name": "OBS Studio Releases",
-    "category": "obs",
-    "title": "32.2.0-beta1: OBS Studio 32.2.0 Beta 1",
-    "url": "https://github.com/obsproject/obs-studio/releases/tag/32.2.0-beta1",
-    "published_at": "2026-06-20T18:07:11+00:00",
-    "summary": "32.2.0-beta1: OBS Studio 32.2.0 Beta 1 の更新です。変更点の詳細は公式リリースノートで確認できます。",
-    "fingerprint": "da9eafef5f83d2a7b526cb01f4ffaab9e3cbcb2c",
-    "created_at": "2026-06-20 18:49:28"
   }
 ]
