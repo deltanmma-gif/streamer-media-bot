@@ -1,5 +1,17 @@
 [
   {
+    "id": 6147,
+    "source_id": "obs_releases",
+    "source_name": "OBS Studio Releases",
+    "category": "obs",
+    "title": "OBS Studio 32.2.0 Release Candidate 1",
+    "url": "https://github.com/obsproject/obs-studio/releases/tag/32.2.0-rc1",
+    "published_at": "2026-07-10T23:14:13+00:00",
+    "summary": "OBS Studio 32.2.0 Release Candidate 1 の更新です。変更点の詳細は公式リリースノートで確認できます。",
+    "fingerprint": "72f08a91c25626d185a5922a436ec7401e8d9e37",
+    "created_at": "2026-07-11 18:09:59"
+  },
+  {
     "id": 6107,
     "source_id": "twitch_blog",
     "source_name": "Twitch Blog",
@@ -58,29 +70,5 @@
     "summary": "How to Create an Elemental Aura Effect in Effect Maker with @varunraikar に関する案内です。配信設定や運用改善の参考になります。",
     "fingerprint": "34c26ef4ba34eb9b0c2ff4114ed5b1b8667dd143",
     "created_at": "2026-06-30 19:10:07"
-  },
-  {
-    "id": 5432,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "New Ways to Manage Comments, Popular Music on Image Posts, and more! #shortsroundup 🗞️✨",
-    "url": "https://www.youtube.com/shorts/hTfYKYmWw6o",
-    "published_at": "2026-06-26T20:48:49+00:00",
-    "summary": "Here's this month's YouTube Shorts RoundUp!",
-    "fingerprint": "0f44bfc49d7640813d003c275707e8723ff149ec",
-    "created_at": "2026-06-27 18:36:51"
-  },
-  {
-    "id": 5433,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "Music in Posts, Updated Content Tab, and more | Creator Roundup",
-    "url": "https://www.youtube.com/watch",
-    "published_at": "2026-06-26T20:47:37+00:00",
-    "summary": "Catch up on all the top Creator news from the past month, including trending topics and product updates. Tune in for new episodes each month...",
-    "fingerprint": "ca0cd011b9d6ea781f64c19fe9e49a769084e992",
-    "created_at": "2026-06-27 18:36:51"
   }
 ]
