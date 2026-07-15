@@ -34,17 +34,5 @@
     "summary": "OBS Studio 32.2.0 Beta 3 の更新です。変更点の詳細は公式リリースノートで確認できます。",
     "fingerprint": "2c31e28cc977d18792fbe4fa176bcf02a2fe7831",
     "created_at": "2026-07-03 18:40:49"
-  },
-  {
-    "id": 5632,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "YouTube for Artists Masterclass: Going Live on YouTube with Sheniece Charway",
-    "url": "https://www.youtube.com/watch",
-    "published_at": "2026-06-30T19:44:22+00:00",
-    "summary": "In this YouTube for Artists Masterclass, Artist Partnerships Manager, Sheniece Charway, will dig into how to set-up livestreaming, build it...",
-    "fingerprint": "eec710e02fbfa2b2815b029a8f184b7e6ddf026b",
-    "created_at": "2026-07-01 19:13:06"
   }
 ]
