@@ -1,5 +1,17 @@
 [
   {
+    "id": 6847,
+    "source_id": "obs_releases",
+    "source_name": "OBS Studio Releases",
+    "category": "obs",
+    "title": "OBS Studio 32.2.1",
+    "url": "https://github.com/obsproject/obs-studio/releases/tag/32.2.1",
+    "published_at": "2026-07-24T22:58:26+00:00",
+    "summary": "OBS Studio 32.2.1 の更新です。変更点の詳細は公式リリースノートで確認できます。",
+    "fingerprint": "62538db9b68094086135bad9de85fa03f3a28d65",
+    "created_at": "2026-07-25 18:10:40"
+  },
+  {
     "id": 6732,
     "source_id": "youtube_teamyoutube",
     "source_name": "TeamYouTube",
@@ -58,17 +70,5 @@
     "summary": "OBS Studio 32.2.0 Release Candidate 2 の更新です。変更点の詳細は公式リリースノートで確認できます。",
     "fingerprint": "f78967db587bbd5f20b2b7ab2520d602cc707540",
     "created_at": "2026-07-17 18:17:09"
-  },
-  {
-    "id": 6147,
-    "source_id": "obs_releases",
-    "source_name": "OBS Studio Releases",
-    "category": "obs",
-    "title": "OBS Studio 32.2.0 Release Candidate 1",
-    "url": "https://github.com/obsproject/obs-studio/releases/tag/32.2.0-rc1",
-    "published_at": "2026-07-10T23:14:13+00:00",
-    "summary": "OBS Studio 32.2.0 Release Candidate 1 の更新です。変更点の詳細は公式リリースノートで確認できます。",
-    "fingerprint": "72f08a91c25626d185a5922a436ec7401e8d9e37",
-    "created_at": "2026-07-11 18:09:59"
   }
 ]
