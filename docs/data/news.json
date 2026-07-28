@@ -24,6 +24,18 @@
     "created_at": "2026-07-23 18:39:15"
   },
   {
+    "id": 6982,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "Effect Maker Tutorial: Drawing 102 with ‪@varunraikar",
+    "url": "https://www.youtube.com/watch",
+    "published_at": "2026-07-23T17:58:31+00:00",
+    "summary": "Get started with Effect Maker at Try out the effect Clock Connect by ‪‪@varunraikar‬ here: Subscribe and hit the bell to see new videos: ► C...",
+    "fingerprint": "e096a0c84219355bc25b2e44486c73346828cb24",
+    "created_at": "2026-07-28 18:49:10"
+  },
+  {
     "id": 6697,
     "source_id": "obs_releases",
     "source_name": "OBS Studio Releases",
