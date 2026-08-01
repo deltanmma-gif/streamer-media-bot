@@ -1,5 +1,29 @@
 [
   {
+    "id": 7182,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "✨NEW✨ Collab with MORE Creators, Communities Updates, and more! #shortsroundup",
+    "url": "https://www.youtube.com/shorts/979g7RzxCZE",
+    "published_at": "2026-07-31T20:01:57+00:00",
+    "summary": "Here’s this month’s YouTube Shorts Roundup! Check out our longer Roundup linked in this Short for more news and updates.",
+    "fingerprint": "191e7adc6a6aa69e3a6729b2493d73bf86ea6702",
+    "created_at": "2026-08-01 18:13:19"
+  },
+  {
+    "id": 7183,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "Collab with more Creators, Turn Playlists Into Shows, and more | Creator Roundup",
+    "url": "https://www.youtube.com/watch",
+    "published_at": "2026-07-31T20:01:05+00:00",
+    "summary": "Collab with more Creators, Turn Playlists Into Shows, and more | Creator Roundup に関する案内です。配信設定や運用改善の参考になります。",
+    "fingerprint": "ffdea7a65e37fd3a4efb8477f0a974a00611aa05",
+    "created_at": "2026-08-01 18:13:19"
+  },
+  {
     "id": 6847,
     "source_id": "obs_releases",
     "source_name": "OBS Studio Releases",
