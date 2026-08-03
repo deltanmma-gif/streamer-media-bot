@@ -70,29 +70,5 @@
     "summary": "OBS Studio 32.2.0 の更新です。変更点の詳細は公式リリースノートで確認できます。",
     "fingerprint": "eaeb8de1709f04eebfcca6a624fdb4d46e1823c8",
     "created_at": "2026-07-22 18:35:48"
-  },
-  {
-    "id": 6582,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "THE BRAND DEAL DESK LIVE FROM CANNES: Hide and Seek with Virgin Media O2 and The Sidemen",
-    "url": "https://www.youtube.com/watch",
-    "published_at": "2026-07-20T14:00:32+00:00",
-    "summary": "THE BRAND DEAL DESK LIVE FROM CANNES: Hide and Seek with Virgin Media O2 and The Sidemen に関する案内です。配信設定や運用改善の参考になります。",
-    "fingerprint": "dd253edef2ea7529f2b06b272c8cf90c47d39d5e",
-    "created_at": "2026-07-20 19:09:51"
-  },
-  {
-    "id": 6583,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "Watch THE BRAND DEAL DESK LIVE FROM CANNES: Hide and Seek with Virgin Media O2 and The Sidemen.",
-    "url": "https://www.youtube.com/shorts/9ERP0dPQPN4",
-    "published_at": "2026-07-20T14:00:06+00:00",
-    "summary": "Watch THE BRAND DEAL DESK LIVE FROM CANNES: Hide and Seek with Virgin Media O2 and The Sidemen. に関する案内です。配信設定や運用改善の参考になります。",
-    "fingerprint": "a4069ea05e38c85d401af4d2900fc217eee20e11",
-    "created_at": "2026-07-20 19:09:51"
   }
 ]
