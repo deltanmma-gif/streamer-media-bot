@@ -1,5 +1,53 @@
 [
   {
+    "id": 7457,
+    "source_id": "twitch_blog",
+    "source_name": "Twitch Blog",
+    "category": "twitch",
+    "title": "8.08 Week",
+    "url": "https://blog.twitch.tv/en/tags/8.08-week/",
+    "published_at": "2026-08-06T17:50:49+00:00",
+    "summary": "Twitch Blog の更新ページ候補",
+    "fingerprint": "b786ed10a45a05b142a29b8d7b9ad5ddf50df30a",
+    "created_at": "2026-08-07 18:05:19"
+  },
+  {
+    "id": 7458,
+    "source_id": "twitch_blog",
+    "source_name": "Twitch Blog",
+    "category": "twitch",
+    "title": "Volume Up For The 3Rd Annual 8 08 Week On Twitch",
+    "url": "https://blog.twitch.tv/en/2026/08/06/volume-up-for-the-3rd-annual-8-08-week-on-twitch/",
+    "published_at": "2026-08-06T17:50:49+00:00",
+    "summary": "Twitch Blog の更新ページ候補",
+    "fingerprint": "811503e98182d35bc761e2cca676dfb3e89fad8c",
+    "created_at": "2026-08-07 18:05:19"
+  },
+  {
+    "id": 7459,
+    "source_id": "twitch_blog",
+    "source_name": "Twitch Blog",
+    "category": "twitch",
+    "title": "Dj Category",
+    "url": "https://blog.twitch.tv/en/tags/dj-category/",
+    "published_at": "2026-08-06T17:50:49+00:00",
+    "summary": "Twitch Blog の更新ページ候補",
+    "fingerprint": "165a8df5b0741acc7ca3dabcc5dc0223f9fbce31",
+    "created_at": "2026-08-07 18:05:19"
+  },
+  {
+    "id": 7460,
+    "source_id": "twitch_blog",
+    "source_name": "Twitch Blog",
+    "category": "twitch",
+    "title": "Dj Program",
+    "url": "https://blog.twitch.tv/en/tags/dj-program/",
+    "published_at": "2026-08-06T17:50:49+00:00",
+    "summary": "Twitch Blog の更新ページ候補",
+    "fingerprint": "db99d522ee77e3132c3683097a34439dd930817c",
+    "created_at": "2026-08-07 18:05:19"
+  },
+  {
     "id": 7182,
     "source_id": "youtube_teamyoutube",
     "source_name": "TeamYouTube",
@@ -34,29 +82,5 @@
     "summary": "OBS Studio 32.2.1 の更新です。変更点の詳細は公式リリースノートで確認できます。",
     "fingerprint": "62538db9b68094086135bad9de85fa03f3a28d65",
     "created_at": "2026-07-25 18:10:40"
-  },
-  {
-    "id": 6732,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "Effect Maker Tutorial: Drawing 101 with ‪@varunraikar",
-    "url": "https://www.youtube.com/watch",
-    "published_at": "2026-07-23T17:58:31+00:00",
-    "summary": "Get started with Effect Maker at Try out the effect Clock Connect by ‪‪@varunraikar‬ here: Subscribe and hit the bell to see new videos: ► C...",
-    "fingerprint": "83a953d6a6e14376ce5bdc30e0dfa12f747d5a63",
-    "created_at": "2026-07-23 18:39:15"
-  },
-  {
-    "id": 6982,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "Effect Maker Tutorial: Drawing 102 with ‪@varunraikar",
-    "url": "https://www.youtube.com/watch",
-    "published_at": "2026-07-23T17:58:31+00:00",
-    "summary": "Get started with Effect Maker at Try out the effect Clock Connect by ‪‪@varunraikar‬ here: Subscribe and hit the bell to see new videos: ► C...",
-    "fingerprint": "e096a0c84219355bc25b2e44486c73346828cb24",
-    "created_at": "2026-07-28 18:49:10"
   }
 ]

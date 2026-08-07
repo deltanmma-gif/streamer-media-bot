@@ -1,24 +1,24 @@
 # 今日の投稿候補
 
-## 1. 更新整理: ✨NEW✨ Collab with MORE Creators, Communities Updates, and more! #shortsroundup
+## 1. 更新整理: 8.08 Week
 
-TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/979g7RzxCZE
+Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/tags/8.08-week/
 
-- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは ✨NEW✨ Collab with MORE Creators, Communities Updates, and more! #shortsroundup。
+- ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは 8.08 Week。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 2. 更新整理: Collab with more Creators, Turn Playlists Into Shows, and more | Creator Roundup
+## 2. 更新整理: Volume Up For The 3Rd Annual 8 08 Week On Twitch
 
-TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
+Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/08/06/volume-up-for-the-3rd-annual-8-08-week-on-twitch/
 
-- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Collab with more Creators, Turn Playlists Into Shows, and more | Creator Roundup。
+- ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは Volume Up For The 3Rd Annual 8 08 Week On Twitch。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 3. 更新整理: OBS Studio 32.2.1
+## 3. 更新整理: Dj Category
 
-OBS Studio Releases の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://github.com/obsproject/obs-studio/releases/tag/32.2.1
+Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/tags/dj-category/
 
-- ALT: OBS Studio Releases の更新要点を整理したカード画像。タイトルは OBS Studio 32.2.1。
+- ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは Dj Category。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ
