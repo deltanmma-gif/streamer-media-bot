@@ -1,5 +1,17 @@
 [
   {
+    "id": 7582,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "NEW: Updates to the YouTube Partner Program",
+    "url": "https://www.youtube.com/watch",
+    "published_at": "2026-08-10T15:01:12+00:00",
+    "summary": "We’re introducing new updates to the YouTube Partner Program. If you’re a creator who’s currently in the program, you’ll need to review and...",
+    "fingerprint": "97db9705b6b99045fd75ed89f1821942413a8711",
+    "created_at": "2026-08-10 18:05:45"
+  },
+  {
     "id": 7457,
     "source_id": "twitch_blog",
     "source_name": "Twitch Blog",
