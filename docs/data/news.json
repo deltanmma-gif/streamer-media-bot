@@ -82,53 +82,5 @@
     "summary": "We’re introducing new updates to the YouTube Partner Program. If you’re a creator who’s currently in the program, you’ll need to review and...",
     "fingerprint": "97db9705b6b99045fd75ed89f1821942413a8711",
     "created_at": "2026-08-10 18:05:45"
-  },
-  {
-    "id": 7457,
-    "source_id": "twitch_blog",
-    "source_name": "Twitch Blog",
-    "category": "twitch",
-    "title": "8.08 Week",
-    "url": "https://blog.twitch.tv/en/tags/8.08-week/",
-    "published_at": "2026-08-06T17:50:49+00:00",
-    "summary": "Twitch Blog の更新ページ候補",
-    "fingerprint": "b786ed10a45a05b142a29b8d7b9ad5ddf50df30a",
-    "created_at": "2026-08-07 18:05:19"
-  },
-  {
-    "id": 7458,
-    "source_id": "twitch_blog",
-    "source_name": "Twitch Blog",
-    "category": "twitch",
-    "title": "Volume Up For The 3Rd Annual 8 08 Week On Twitch",
-    "url": "https://blog.twitch.tv/en/2026/08/06/volume-up-for-the-3rd-annual-8-08-week-on-twitch/",
-    "published_at": "2026-08-06T17:50:49+00:00",
-    "summary": "Twitch Blog の更新ページ候補",
-    "fingerprint": "811503e98182d35bc761e2cca676dfb3e89fad8c",
-    "created_at": "2026-08-07 18:05:19"
-  },
-  {
-    "id": 7459,
-    "source_id": "twitch_blog",
-    "source_name": "Twitch Blog",
-    "category": "twitch",
-    "title": "Dj Category",
-    "url": "https://blog.twitch.tv/en/tags/dj-category/",
-    "published_at": "2026-08-06T17:50:49+00:00",
-    "summary": "Twitch Blog の更新ページ候補",
-    "fingerprint": "165a8df5b0741acc7ca3dabcc5dc0223f9fbce31",
-    "created_at": "2026-08-07 18:05:19"
-  },
-  {
-    "id": 7460,
-    "source_id": "twitch_blog",
-    "source_name": "Twitch Blog",
-    "category": "twitch",
-    "title": "Dj Program",
-    "url": "https://blog.twitch.tv/en/tags/dj-program/",
-    "published_at": "2026-08-06T17:50:49+00:00",
-    "summary": "Twitch Blog の更新ページ候補",
-    "fingerprint": "db99d522ee77e3132c3683097a34439dd930817c",
-    "created_at": "2026-08-07 18:05:19"
   }
 ]
