@@ -1,5 +1,29 @@
 [
   {
+    "id": 8432,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "Tag Amazon products with YouTube Shopping",
+    "url": "https://www.youtube.com/shorts/aOYEnNMSBQI",
+    "published_at": "2026-08-27T16:18:10+00:00",
+    "summary": "Tag Amazon products with YouTube Shopping に関する案内です。配信設定や運用改善の参考になります。",
+    "fingerprint": "fd4e36cbc8d66134d8e1c33c9f38d4cbe0c55709",
+    "created_at": "2026-08-28 01:30:53"
+  },
+  {
+    "id": 8433,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "Tag Amazon Products in the YouTube Shopping Affiliate Program",
+    "url": "https://www.youtube.com/watch",
+    "published_at": "2026-08-27T16:17:39+00:00",
+    "summary": "Amazon is now part of the YouTube Shopping Affiliate Program! Eligible US creators can tag products from Amazon’s catalog directly in videos...",
+    "fingerprint": "a52b56eee179857c06f51dbc14f8b7fbf600e6a4",
+    "created_at": "2026-08-28 01:30:53"
+  },
+  {
     "id": 8382,
     "source_id": "youtube_teamyoutube",
     "source_name": "TeamYouTube",
@@ -82,17 +106,5 @@
     "summary": "OBS Studio 32.2.2 の更新です。変更点の詳細は公式リリースノートで確認できます。",
     "fingerprint": "b6c4e445c51a982c8b70cee75fba787fcb150a57",
     "created_at": "2026-08-15 17:38:42"
-  },
-  {
-    "id": 7807,
-    "source_id": "twitch_blog",
-    "source_name": "Twitch Blog",
-    "category": "twitch",
-    "title": "Win A Trip To Twitchcon San Diego With Twitch University",
-    "url": "https://blog.twitch.tv/en/2026/08/14/win-a-trip-to-twitchcon-san-diego-with-twitch-university/",
-    "published_at": "2026-08-13T18:51:31+00:00",
-    "summary": "Twitch Blog の更新ページ候補",
-    "fingerprint": "88c6e33c2626899db592d17f3c69c89038c918a4",
-    "created_at": "2026-08-14 18:08:14"
   }
 ]

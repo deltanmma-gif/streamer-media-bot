@@ -1,24 +1,24 @@
 # 今日の投稿候補
 
-## 1. 更新整理: Try Out Practice Mode Before Going Live! 🤳
+## 1. 更新整理: Tag Amazon products with YouTube Shopping
+
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/aOYEnNMSBQI
+
+- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Tag Amazon products with YouTube Shopping。
+- 画像: assets/cards/first-3-minutes-hook.png
+
+## 2. 更新整理: Tag Amazon Products in the YouTube Shopping Affiliate Program
+
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
+
+- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Tag Amazon Products in the YouTube Shopping Affiliate Program。
+- 画像: assets/cards/first-3-minutes-hook.png
+
+## 3. 更新整理: Try Out Practice Mode Before Going Live! 🤳
 
 TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/wp7xpJj1aOY
 
 - ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Try Out Practice Mode Before Going Live! 🤳。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 2. 更新整理: Pokemon Chat Badges Are Now On Twitch
-
-Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/08/24/pokemon-chat-badges-are-now-on-twitch/
-
-- ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは Pokemon Chat Badges Are Now On Twitch。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 3. 更新整理: Sponsorships Are Now Available To Affiliates
-
-Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/08/20/sponsorships-are-now-available-to-affiliates/
-
-- ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは Sponsorships Are Now Available To Affiliates。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ
