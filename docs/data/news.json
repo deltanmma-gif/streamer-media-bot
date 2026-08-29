@@ -1,5 +1,41 @@
 [
   {
+    "id": 8482,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "Custom Shorts thumbs, practice before going live & more #shortsroundup",
+    "url": "https://www.youtube.com/shorts/uwS7-61H19E",
+    "published_at": "2026-08-28T21:23:46+00:00",
+    "summary": "Subscribe and hit the bell to see new videos: ► Check out our Help Center: ► Check out the Creator Insider channel:",
+    "fingerprint": "3d766577af15584e786a0e2a1e122164eb1a35bb",
+    "created_at": "2026-08-29 00:59:02"
+  },
+  {
+    "id": 8483,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "YPP Updates, View Count Changes, and more | Creator Roundup",
+    "url": "https://www.youtube.com/watch",
+    "published_at": "2026-08-28T21:22:36+00:00",
+    "summary": "YPP Updates, View Count Changes, and more | Creator Roundup に関する案内です。配信設定や運用改善の参考になります。",
+    "fingerprint": "25381672e5ad49e3e4c1484533f2b2facc165b48",
+    "created_at": "2026-08-29 00:59:02"
+  },
+  {
+    "id": 8484,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "HOW TO: Create a Makeup Switcher Effect with @royer.louise",
+    "url": "https://www.youtube.com/watch",
+    "published_at": "2026-08-28T16:34:56+00:00",
+    "summary": "Get started with Effect Maker at Try out the Makeup Switcher effect by ‪@royer.louise here: Subscribe and hit the bell to see new videos: ►...",
+    "fingerprint": "81dafcffdaeb1597d48efd4ad4a8846db507221d",
+    "created_at": "2026-08-29 00:59:02"
+  },
+  {
     "id": 8432,
     "source_id": "youtube_teamyoutube",
     "source_name": "TeamYouTube",
@@ -94,17 +130,5 @@
     "summary": "Twitch Blog の更新ページ候補",
     "fingerprint": "d8a20fb507f7e25a37a6c38844955b204fb8673b",
     "created_at": "2026-08-18 17:46:17"
-  },
-  {
-    "id": 7847,
-    "source_id": "obs_releases",
-    "source_name": "OBS Studio Releases",
-    "category": "obs",
-    "title": "OBS Studio 32.2.2",
-    "url": "https://github.com/obsproject/obs-studio/releases/tag/32.2.2",
-    "published_at": "2026-08-14T22:43:31+00:00",
-    "summary": "OBS Studio 32.2.2 の更新です。変更点の詳細は公式リリースノートで確認できます。",
-    "fingerprint": "b6c4e445c51a982c8b70cee75fba787fcb150a57",
-    "created_at": "2026-08-15 17:38:42"
   }
 ]
