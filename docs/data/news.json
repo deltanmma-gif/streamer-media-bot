@@ -118,17 +118,5 @@
     "summary": "Twitch Blog の更新ページ候補",
     "fingerprint": "0b95acfa17281a9746beab97bd224a20abca6f84",
     "created_at": "2026-08-20 17:48:09"
-  },
-  {
-    "id": 8057,
-    "source_id": "twitch_blog",
-    "source_name": "Twitch Blog",
-    "category": "twitch",
-    "title": "Subtember 2026",
-    "url": "https://blog.twitch.tv/en/2026/08/18/subtember-2026/",
-    "published_at": "2026-08-18T23:14:19+00:00",
-    "summary": "Twitch Blog の更新ページ候補",
-    "fingerprint": "4f6261ac7f521cf2733eea0858603ce49fef39bc",
-    "created_at": "2026-08-19 17:43:40"
   }
 ]
