@@ -1,5 +1,17 @@
 [
   {
+    "id": 8807,
+    "source_id": "twitch_blog",
+    "source_name": "Twitch Blog",
+    "category": "twitch",
+    "title": "Gta Rp Week",
+    "url": "https://blog.twitch.tv/en/2026/09/03/gta-rp-week/",
+    "published_at": "2026-09-03T18:24:03+00:00",
+    "summary": "Twitch Blog の更新ページ候補",
+    "fingerprint": "23a7ab33eeb421d6bfef911c94840b5b66e39512",
+    "created_at": "2026-09-03 19:54:29"
+  },
+  {
     "id": 8707,
     "source_id": "twitch_blog",
     "source_name": "Twitch Blog",
@@ -106,17 +118,5 @@
     "summary": "Twitch Blog の更新ページ候補",
     "fingerprint": "24527def2bd7612db71e7b4b92199eaaa78b136c",
     "created_at": "2026-08-25 17:47:26"
-  },
-  {
-    "id": 8107,
-    "source_id": "twitch_blog",
-    "source_name": "Twitch Blog",
-    "category": "twitch",
-    "title": "Sponsorships Are Now Available To Affiliates",
-    "url": "https://blog.twitch.tv/en/2026/08/20/sponsorships-are-now-available-to-affiliates/",
-    "published_at": "2026-08-20T16:58:13+00:00",
-    "summary": "Twitch Blog の更新ページ候補",
-    "fingerprint": "0b95acfa17281a9746beab97bd224a20abca6f84",
-    "created_at": "2026-08-20 17:48:09"
   }
 ]
