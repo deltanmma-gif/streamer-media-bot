@@ -106,17 +106,5 @@
     "summary": "Use Live Practice Mode to rehearse before going live on mobile!",
     "fingerprint": "04587b1542dfcd14e1e8ec0f706f08db1a7678b3",
     "created_at": "2026-08-26 19:21:30"
-  },
-  {
-    "id": 8357,
-    "source_id": "twitch_blog",
-    "source_name": "Twitch Blog",
-    "category": "twitch",
-    "title": "Pokemon Chat Badges Are Now On Twitch",
-    "url": "https://blog.twitch.tv/en/2026/08/24/pokemon-chat-badges-are-now-on-twitch/",
-    "published_at": "2026-08-24T22:18:24+00:00",
-    "summary": "Twitch Blog の更新ページ候補",
-    "fingerprint": "24527def2bd7612db71e7b4b92199eaaa78b136c",
-    "created_at": "2026-08-25 17:47:26"
   }
 ]
