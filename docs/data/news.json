@@ -46,29 +46,5 @@
     "summary": "Twitch Blog の更新ページ候補",
     "fingerprint": "7ec4249ae34e0cfcf07c0759e8a08b3141f80cf8",
     "created_at": "2026-08-31 21:55:12"
-  },
-  {
-    "id": 8482,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "Custom Shorts thumbs, practice before going live & more #shortsroundup",
-    "url": "https://www.youtube.com/shorts/uwS7-61H19E",
-    "published_at": "2026-08-28T21:23:46+00:00",
-    "summary": "Subscribe and hit the bell to see new videos: ► Check out our Help Center: ► Check out the Creator Insider channel:",
-    "fingerprint": "3d766577af15584e786a0e2a1e122164eb1a35bb",
-    "created_at": "2026-08-29 00:59:02"
-  },
-  {
-    "id": 8483,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "YPP Updates, View Count Changes, and more | Creator Roundup",
-    "url": "https://www.youtube.com/watch",
-    "published_at": "2026-08-28T21:22:36+00:00",
-    "summary": "YPP Updates, View Count Changes, and more | Creator Roundup に関する案内です。配信設定や運用改善の参考になります。",
-    "fingerprint": "25381672e5ad49e3e4c1484533f2b2facc165b48",
-    "created_at": "2026-08-29 00:59:02"
   }
 ]
