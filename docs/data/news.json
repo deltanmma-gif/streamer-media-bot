@@ -10,17 +10,5 @@
     "summary": "Twitch Blog の更新ページ候補",
     "fingerprint": "3a8abad63bf5f4f0d3b3b7d4ffcbc90df269df59",
     "created_at": "2026-09-09 19:49:30"
-  },
-  {
-    "id": 8807,
-    "source_id": "twitch_blog",
-    "source_name": "Twitch Blog",
-    "category": "twitch",
-    "title": "Gta Rp Week",
-    "url": "https://blog.twitch.tv/en/2026/09/03/gta-rp-week/",
-    "published_at": "2026-09-03T18:24:03+00:00",
-    "summary": "Twitch Blog の更新ページ候補",
-    "fingerprint": "23a7ab33eeb421d6bfef911c94840b5b66e39512",
-    "created_at": "2026-09-03 19:54:29"
   }
 ]
