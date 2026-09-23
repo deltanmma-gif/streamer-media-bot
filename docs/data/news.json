@@ -1,14 +1,14 @@
 [
   {
-    "id": 9107,
-    "source_id": "twitch_blog",
-    "source_name": "Twitch Blog",
-    "category": "twitch",
-    "title": "Twitch State Of Gaming 2026",
-    "url": "https://blog.twitch.tv/en/2026/09/09/twitch-state-of-gaming-2026/",
-    "published_at": "2026-09-09T12:19:16+00:00",
-    "summary": "Twitch Blog の更新ページ候補",
-    "fingerprint": "3a8abad63bf5f4f0d3b3b7d4ffcbc90df269df59",
-    "created_at": "2026-09-09 19:49:30"
+    "id": 9782,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "MadeOn YouTube 2026 | Creator Roundup",
+    "url": "https://www.youtube.com/watch",
+    "published_at": "2026-09-23T14:32:15+00:00",
+    "summary": "MadeOn YouTube 2026 | Creator Roundup に関する案内です。配信設定や運用改善の参考になります。",
+    "fingerprint": "21880357ded7e0c20ee0fef9ddfe43c1746e9fd1",
+    "created_at": "2026-09-23 20:28:06"
   }
 ]

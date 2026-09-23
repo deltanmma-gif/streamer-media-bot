@@ -1,10 +1,10 @@
 # 今日の投稿候補
 
-## 1. 更新整理: Twitch State Of Gaming 2026
+## 1. 更新整理: MadeOn YouTube 2026 | Creator Roundup
 
-Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/09/09/twitch-state-of-gaming-2026/
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
 
-- ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは Twitch State Of Gaming 2026。
+- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは MadeOn YouTube 2026 | Creator Roundup。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 2. 保存版: 初見離脱を減らす冒頭3分テンプレ
