@@ -1,8 +1,20 @@
 [
   {
-    "headline": "更新整理: MadeOn YouTube 2026 | Creator Roundup",
-    "body": "TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch",
-    "alt_text": "TeamYouTube の更新要点を整理したカード画像。タイトルは MadeOn YouTube 2026 | Creator Roundup。",
+    "headline": "更新整理: #shortsroundup from MADEON 2026 🎬",
+    "body": "TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/IMoqewYDS0I",
+    "alt_text": "TeamYouTube の更新要点を整理したカード画像。タイトルは #shortsroundup from MADEON 2026 🎬。",
+    "image_path": "assets/cards/first-3-minutes-hook.png"
+  },
+  {
+    "headline": "更新整理: 33.0.0-beta3: OBS Studio 33.0.0 Beta 3",
+    "body": "OBS Studio Releases の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://github.com/obsproject/obs-studio/releases/tag/33.0.0-beta3",
+    "alt_text": "OBS Studio Releases の更新要点を整理したカード画像。タイトルは 33.0.0-beta3: OBS Studio 33.0.0 Beta 3。",
+    "image_path": "assets/cards/first-3-minutes-hook.png"
+  },
+  {
+    "headline": "更新整理: 33.0.0-beta2: OBS Studio 33.0.0 Beta 2",
+    "body": "OBS Studio Releases の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://github.com/obsproject/obs-studio/releases/tag/33.0.0-beta2",
+    "alt_text": "OBS Studio Releases の更新要点を整理したカード画像。タイトルは 33.0.0-beta2: OBS Studio 33.0.0 Beta 2。",
     "image_path": "assets/cards/first-3-minutes-hook.png"
   },
   {

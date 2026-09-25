@@ -1,5 +1,53 @@
 [
   {
+    "id": 9882,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "#shortsroundup from MADEON 2026 🎬",
+    "url": "https://www.youtube.com/shorts/IMoqewYDS0I",
+    "published_at": "2026-09-25T20:22:12+00:00",
+    "summary": "Subscribe and hit the bell to see new videos: ► Check out our Help Center: ► Check out the Creator Insider channel:",
+    "fingerprint": "56b909d56cedb8a17aac6e2cae86b1a1e483a5e9",
+    "created_at": "2026-09-25 20:31:38"
+  },
+  {
+    "id": 9897,
+    "source_id": "obs_releases",
+    "source_name": "OBS Studio Releases",
+    "category": "obs",
+    "title": "33.0.0-beta3: OBS Studio 33.0.0 Beta 3",
+    "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0-beta3",
+    "published_at": "2026-09-25T02:55:49+00:00",
+    "summary": "33.0.0-beta3: OBS Studio 33.0.0 Beta 3 の更新です。変更点の詳細は公式リリースノートで確認できます。",
+    "fingerprint": "61b2c32de243684c14fd2c1714778559ffa7d2d1",
+    "created_at": "2026-09-25 20:31:38"
+  },
+  {
+    "id": 9898,
+    "source_id": "obs_releases",
+    "source_name": "OBS Studio Releases",
+    "category": "obs",
+    "title": "33.0.0-beta2: OBS Studio 33.0.0 Beta 2",
+    "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0-beta2",
+    "published_at": "2026-09-25T01:42:17+00:00",
+    "summary": "33.0.0-beta2: OBS Studio 33.0.0 Beta 2 の更新です。変更点の詳細は公式リリースノートで確認できます。",
+    "fingerprint": "eaac8d1c41547d81256762364a1fcfdb70f1ec87",
+    "created_at": "2026-09-25 20:31:38"
+  },
+  {
+    "id": 9899,
+    "source_id": "obs_releases",
+    "source_name": "OBS Studio Releases",
+    "category": "obs",
+    "title": "33.0.0-beta1: OBS Studio 33.0.0 Beta 1",
+    "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0-beta1",
+    "published_at": "2026-09-24T22:10:12+00:00",
+    "summary": "33.0.0-beta1: OBS Studio 33.0.0 Beta 1 の更新です。変更点の詳細は公式リリースノートで確認できます。",
+    "fingerprint": "7b0499b6856bf65e1f97a7722d7d0c68e2722636",
+    "created_at": "2026-09-25 20:31:38"
+  },
+  {
     "id": 9782,
     "source_id": "youtube_teamyoutube",
     "source_name": "TeamYouTube",
