@@ -1,24 +1,24 @@
 # 今日の投稿候補
 
-## 1. 更新整理: #shortsroundup from MADEON 2026 🎬
+## 1. 更新整理: OBS Studio 33.0.0-beta4
+
+OBS Studio Releases の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://github.com/obsproject/obs-studio/releases/tag/33.0.0-beta4
+
+- ALT: OBS Studio Releases の更新要点を整理したカード画像。タイトルは OBS Studio 33.0.0-beta4。
+- 画像: assets/cards/first-3-minutes-hook.png
+
+## 2. 更新整理: #shortsroundup from MADEON 2026 🎬
 
 TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/IMoqewYDS0I
 
 - ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは #shortsroundup from MADEON 2026 🎬。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 2. 更新整理: 33.0.0-beta3: OBS Studio 33.0.0 Beta 3
+## 3. 更新整理: 33.0.0-beta3: OBS Studio 33.0.0 Beta 3
 
 OBS Studio Releases の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://github.com/obsproject/obs-studio/releases/tag/33.0.0-beta3
 
 - ALT: OBS Studio Releases の更新要点を整理したカード画像。タイトルは 33.0.0-beta3: OBS Studio 33.0.0 Beta 3。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 3. 更新整理: 33.0.0-beta2: OBS Studio 33.0.0 Beta 2
-
-OBS Studio Releases の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://github.com/obsproject/obs-studio/releases/tag/33.0.0-beta2
-
-- ALT: OBS Studio Releases の更新要点を整理したカード画像。タイトルは 33.0.0-beta2: OBS Studio 33.0.0 Beta 2。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ
