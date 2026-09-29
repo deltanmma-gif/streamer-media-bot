@@ -1,5 +1,29 @@
 [
   {
+    "id": 10082,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "YouTube For Artists Masterclass: Master Fandom on YouTube",
+    "url": "https://www.youtube.com/watch",
+    "published_at": "2026-09-29T19:24:05+00:00",
+    "summary": "YouTube For Artists Masterclass: Master Fandom on YouTube に関する案内です。配信設定や運用改善の参考になります。",
+    "fingerprint": "a8b13765cb02e6e1f99f563f1cfded93db820f5c",
+    "created_at": "2026-09-29 21:25:56"
+  },
+  {
+    "id": 10083,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "From finding brand partners to taking your Shopping earnings further: see what's new #MadeOnYouTube",
+    "url": "https://www.youtube.com/shorts/13Mayu5l7ec",
+    "published_at": "2026-09-29T17:01:03+00:00",
+    "summary": "Subscribe and hit the bell to see new videos: ► Check out our Help Center: ► Check out the Creator Insider channel:",
+    "fingerprint": "7d15b726d4ea998ba48d94187ad215ae342ed565",
+    "created_at": "2026-09-29 21:25:56"
+  },
+  {
     "id": 9947,
     "source_id": "obs_releases",
     "source_name": "OBS Studio Releases",

@@ -1,24 +1,24 @@
 # 今日の投稿候補
 
-## 1. 更新整理: OBS Studio 33.0.0-beta4
+## 1. 更新整理: YouTube For Artists Masterclass: Master Fandom on YouTube
+
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
+
+- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは YouTube For Artists Masterclass: Master Fandom on YouTube。
+- 画像: assets/cards/first-3-minutes-hook.png
+
+## 2. 更新整理: From finding brand partners to taking your Shopping earnings further: see what's new #MadeOnYouTube
+
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/13Mayu5l7ec
+
+- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは From finding brand partners to taking your Shopping earnings further: see what's new #MadeOnYouTube。
+- 画像: assets/cards/first-3-minutes-hook.png
+
+## 3. 更新整理: OBS Studio 33.0.0-beta4
 
 OBS Studio Releases の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://github.com/obsproject/obs-studio/releases/tag/33.0.0-beta4
 
 - ALT: OBS Studio Releases の更新要点を整理したカード画像。タイトルは OBS Studio 33.0.0-beta4。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 2. 更新整理: #shortsroundup from MADEON 2026 🎬
-
-TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/IMoqewYDS0I
-
-- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは #shortsroundup from MADEON 2026 🎬。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 3. 更新整理: 33.0.0-beta3: OBS Studio 33.0.0 Beta 3
-
-OBS Studio Releases の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://github.com/obsproject/obs-studio/releases/tag/33.0.0-beta3
-
-- ALT: OBS Studio Releases の更新要点を整理したカード画像。タイトルは 33.0.0-beta3: OBS Studio 33.0.0 Beta 3。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ
