@@ -178,29 +178,5 @@
     "summary": "33.0.0-beta1: OBS Studio 33.0.0 Beta 1 の更新です。変更点の詳細は公式リリースノートで確認できます。",
     "fingerprint": "7b0499b6856bf65e1f97a7722d7d0c68e2722636",
     "created_at": "2026-09-25 20:31:38"
-  },
-  {
-    "id": 9782,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "MadeOn YouTube 2026 | Creator Roundup",
-    "url": "https://www.youtube.com/watch",
-    "published_at": "2026-09-23T14:32:15+00:00",
-    "summary": "MadeOn YouTube 2026 | Creator Roundup に関する案内です。配信設定や運用改善の参考になります。",
-    "fingerprint": "21880357ded7e0c20ee0fef9ddfe43c1746e9fd1",
-    "created_at": "2026-09-23 20:28:06"
-  },
-  {
-    "id": 10136,
-    "source_id": "youtube_teamyoutube",
-    "source_name": "TeamYouTube",
-    "category": "youtube",
-    "title": "Made On YouTube 2026 | Creator Roundup",
-    "url": "https://www.youtube.com/watch",
-    "published_at": "2026-09-23T14:32:15+00:00",
-    "summary": "Made On YouTube 2026 | Creator Roundup に関する案内です。配信設定や運用改善の参考になります。",
-    "fingerprint": "04c96191b5c31d2ced9010177df606f9f62f29e1",
-    "created_at": "2026-09-30 21:26:25"
   }
 ]
