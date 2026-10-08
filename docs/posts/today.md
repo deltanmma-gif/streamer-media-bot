@@ -1,24 +1,24 @@
 # 今日の投稿候補
 
-## 1. 更新整理: OBS Studio 33.0.0 Beta 6
+## 1. 更新整理: 33.0.0-rc1: OBS Studio 33.0.0 Release Candidate 1
+
+OBS Studio Releases の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://github.com/obsproject/obs-studio/releases/tag/33.0.0-rc1
+
+- ALT: OBS Studio Releases の更新要点を整理したカード画像。タイトルは 33.0.0-rc1: OBS Studio 33.0.0 Release Candidate 1。
+- 画像: assets/cards/first-3-minutes-hook.png
+
+## 2. 更新整理: OBS Studio 33.0.0 Beta 6
 
 OBS Studio Releases の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://github.com/obsproject/obs-studio/releases/tag/33.0.0-beta6
 
 - ALT: OBS Studio Releases の更新要点を整理したカード画像。タイトルは OBS Studio 33.0.0 Beta 6。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 2. 更新整理: OBS Studio 33.0.0 Beta 4
+## 3. 更新整理: OBS Studio 33.0.0 Beta 4
 
 OBS Studio Releases の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://github.com/obsproject/obs-studio/releases/tag/33.0.0-beta4
 
 - ALT: OBS Studio Releases の更新要点を整理したカード画像。タイトルは OBS Studio 33.0.0 Beta 4。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 3. 更新整理: OBS Studio 33.0.0 Beta 5
-
-OBS Studio Releases の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://github.com/obsproject/obs-studio/releases/tag/33.0.0-beta5
-
-- ALT: OBS Studio Releases の更新要点を整理したカード画像。タイトルは OBS Studio 33.0.0 Beta 5。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ
