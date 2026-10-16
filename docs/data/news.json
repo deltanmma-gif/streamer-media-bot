@@ -1,5 +1,17 @@
 [
   {
+    "id": 10927,
+    "source_id": "twitch_blog",
+    "source_name": "Twitch Blog",
+    "category": "twitch",
+    "title": "Pokemon Evolutions And Night Out",
+    "url": "https://blog.twitch.tv/en/2026/10/16/pokemon-evolutions-and-night-out/",
+    "published_at": "2026-10-16T17:15:43+00:00",
+    "summary": "Twitch Blog の更新ページ候補",
+    "fingerprint": "d3da89b07eb23c130ce8f13b49d12ef9f0eab904",
+    "created_at": "2026-10-16 19:58:35"
+  },
+  {
     "id": 10877,
     "source_id": "twitch_blog",
     "source_name": "Twitch Blog",

@@ -1,24 +1,24 @@
 # 今日の投稿候補
 
-## 1. 更新整理: Get Ready For The Biggest Weekend In Livestreaming
+## 1. 更新整理: Pokemon Evolutions And Night Out
+
+Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/10/16/pokemon-evolutions-and-night-out/
+
+- ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは Pokemon Evolutions And Night Out。
+- 画像: assets/cards/first-3-minutes-hook.png
+
+## 2. 更新整理: Get Ready For The Biggest Weekend In Livestreaming
 
 Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/10/14/get-ready-for-the-biggest-weekend-in-livestreaming/
 
 - ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは Get Ready For The Biggest Weekend In Livestreaming。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 2. 更新整理: Effect Maker Tutorial: Gaming 101 with @cloves_ar
+## 3. 更新整理: Effect Maker Tutorial: Gaming 101 with @cloves_ar
 
 TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
 
 - ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Effect Maker Tutorial: Gaming 101 with @cloves_ar。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 3. 更新整理: OBS Studio 33.0.0 Release Candidate 1
-
-OBS Studio Releases の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://github.com/obsproject/obs-studio/releases/tag/33.0.0-rc1
-
-- ALT: OBS Studio Releases の更新要点を整理したカード画像。タイトルは OBS Studio 33.0.0 Release Candidate 1。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ
