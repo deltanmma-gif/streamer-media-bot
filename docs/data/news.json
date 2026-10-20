@@ -1,5 +1,17 @@
 [
   {
+    "id": 11127,
+    "source_id": "twitch_blog",
+    "source_name": "Twitch Blog",
+    "category": "twitch",
+    "title": "Sub For Apple Tv And Ted Lasso Chat Badges",
+    "url": "https://blog.twitch.tv/en/2026/10/20/sub-for-apple-tv-and-ted-lasso-chat-badges/",
+    "published_at": "2026-10-20T20:15:57+00:00",
+    "summary": "Twitch Blog の更新ページ候補",
+    "fingerprint": "89e4e31e6e1178e676f27b7790bdfa123aa88d36",
+    "created_at": "2026-10-20 20:39:37"
+  },
+  {
     "id": 10967,
     "source_id": "obs_releases",
     "source_name": "OBS Studio Releases",
