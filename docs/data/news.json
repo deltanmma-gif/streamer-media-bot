@@ -1,5 +1,29 @@
 [
   {
+    "id": 11177,
+    "source_id": "twitch_blog",
+    "source_name": "Twitch Blog",
+    "category": "twitch",
+    "title": "Stream Recaps",
+    "url": "https://blog.twitch.tv/en/2026/10/20/stream-recaps/",
+    "published_at": "2026-10-21T19:12:26+00:00",
+    "summary": "Twitch Blog の更新ページ候補",
+    "fingerprint": "85b2f6c08406b1257f52f10d0f9db393f5ea9785",
+    "created_at": "2026-10-21 20:40:31"
+  },
+  {
+    "id": 11167,
+    "source_id": "obs_releases",
+    "source_name": "OBS Studio Releases",
+    "category": "obs",
+    "title": "OBS Studio 33.0.0 Release Candidate 3",
+    "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0-rc3",
+    "published_at": "2026-10-21T00:02:27+00:00",
+    "summary": "OBS Studio 33.0.0 Release Candidate 3 の更新です。変更点の詳細は公式リリースノートで確認できます。",
+    "fingerprint": "595b566bfb3fab300ea9268bbff0efeba79d60f3",
+    "created_at": "2026-10-21 20:40:31"
+  },
+  {
     "id": 11127,
     "source_id": "twitch_blog",
     "source_name": "Twitch Blog",
