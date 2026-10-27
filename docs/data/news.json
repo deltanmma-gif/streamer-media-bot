@@ -1,5 +1,17 @@
 [
   {
+    "id": 11477,
+    "source_id": "twitch_blog",
+    "source_name": "Twitch Blog",
+    "category": "twitch",
+    "title": "Investing In Streamer Growth Through Clip Promotion",
+    "url": "https://blog.twitch.tv/en/2026/10/27/investing-in-streamer-growth-through-clip-promotion/",
+    "published_at": "2026-10-27T20:28:53+00:00",
+    "summary": "Twitch Blog の更新ページ候補",
+    "fingerprint": "2dd329b286614dd29244220ea893c6573f179474",
+    "created_at": "2026-10-27 21:22:08"
+  },
+  {
     "id": 11317,
     "source_id": "obs_releases",
     "source_name": "OBS Studio Releases",
