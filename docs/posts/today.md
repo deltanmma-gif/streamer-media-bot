@@ -1,24 +1,24 @@
 # 今日の投稿候補
 
-## 1. 更新整理: Investing In Streamer Growth Through Clip Promotion
+## 1. 更新整理: OBS Studio 33.0.1
+
+OBS Studio Releases の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://github.com/obsproject/obs-studio/releases/tag/33.0.1
+
+- ALT: OBS Studio Releases の更新要点を整理したカード画像。タイトルは OBS Studio 33.0.1。
+- 画像: assets/cards/first-3-minutes-hook.png
+
+## 2. 更新整理: Investing In Streamer Growth Through Clip Promotion
 
 Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/10/27/investing-in-streamer-growth-through-clip-promotion/
 
 - ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは Investing In Streamer Growth Through Clip Promotion。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 2. 更新整理: OBS Studio 33.0.0
+## 3. 更新整理: OBS Studio 33.0.0
 
 OBS Studio Releases の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://github.com/obsproject/obs-studio/releases/tag/33.0.0
 
 - ALT: OBS Studio Releases の更新要点を整理したカード画像。タイトルは OBS Studio 33.0.0。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 3. 更新整理: Stream Recaps
-
-Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/10/20/stream-recaps/
-
-- ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは Stream Recaps。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ
