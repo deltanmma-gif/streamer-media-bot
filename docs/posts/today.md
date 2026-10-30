@@ -1,24 +1,24 @@
 # 今日の投稿候補
 
-## 1. 更新整理: OBS Studio 33.0.1
+## 1. 更新整理: Keyframes in YT Create, clips & Shorts & more #shortsroundup
 
-OBS Studio Releases の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://github.com/obsproject/obs-studio/releases/tag/33.0.1
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/clAPItNGkYk
 
-- ALT: OBS Studio Releases の更新要点を整理したカード画像。タイトルは OBS Studio 33.0.1。
+- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは Keyframes in YT Create, clips & Shorts & more #shortsroundup。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 2. 更新整理: Investing In Streamer Growth Through Clip Promotion
+## 2. 更新整理: New Shopping Analytics, Keyframes, & more | Creator Roundup
 
-Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/10/27/investing-in-streamer-growth-through-clip-promotion/
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/watch
 
-- ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは Investing In Streamer Growth Through Clip Promotion。
+- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは New Shopping Analytics, Keyframes, & more | Creator Roundup。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 3. 更新整理: OBS Studio 33.0.0
+## 3. 更新整理: ✨HOW TO✨ Use keyframes in YouTube Create
 
-OBS Studio Releases の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://github.com/obsproject/obs-studio/releases/tag/33.0.0
+TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/YuFdWkr3x8E
 
-- ALT: OBS Studio Releases の更新要点を整理したカード画像。タイトルは OBS Studio 33.0.0。
+- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは ✨HOW TO✨ Use keyframes in YouTube Create。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ

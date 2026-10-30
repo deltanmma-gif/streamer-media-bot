@@ -1,5 +1,41 @@
 [
   {
+    "id": 11602,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "Keyframes in YT Create, clips & Shorts & more #shortsroundup",
+    "url": "https://www.youtube.com/shorts/clAPItNGkYk",
+    "published_at": "2026-10-30T18:55:02+00:00",
+    "summary": "Subscribe and hit the bell to see new videos: ► Check out our Help Center: ► Check out the Creator Insider channel:",
+    "fingerprint": "25383179db8a5f5f2584a68c00add2f9bae61ab2",
+    "created_at": "2026-10-30 21:32:55"
+  },
+  {
+    "id": 11603,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "New Shopping Analytics, Keyframes, & more | Creator Roundup",
+    "url": "https://www.youtube.com/watch",
+    "published_at": "2026-10-30T18:38:14+00:00",
+    "summary": "Catch up on all the top Creator news from the past month, including trending topics and product updates. Tune in for new episodes each month...",
+    "fingerprint": "86e6abc57303500c7f60ab4659c940450739f878",
+    "created_at": "2026-10-30 21:32:55"
+  },
+  {
+    "id": 11604,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "✨HOW TO✨ Use keyframes in YouTube Create",
+    "url": "https://www.youtube.com/shorts/YuFdWkr3x8E",
+    "published_at": "2026-10-30T15:53:42+00:00",
+    "summary": "You can now easily animate parts of your video using keyframes in the YouTube Create app. 📱 Download the YouTube Create app to use keyframes...",
+    "fingerprint": "9ebc7a744087e70946e6c494ef311142a6b73589",
+    "created_at": "2026-10-30 21:32:55"
+  },
+  {
     "id": 11567,
     "source_id": "obs_releases",
     "source_name": "OBS Studio Releases",
@@ -82,17 +118,5 @@
     "summary": "OBS Studio 33.0.0 Release Candidate 2 の更新です。変更点の詳細は公式リリースノートで確認できます。",
     "fingerprint": "27912d611860c3858cdab2abc62d3b54c16e7fb7",
     "created_at": "2026-10-17 19:27:36"
-  },
-  {
-    "id": 10927,
-    "source_id": "twitch_blog",
-    "source_name": "Twitch Blog",
-    "category": "twitch",
-    "title": "Pokemon Evolutions And Night Out",
-    "url": "https://blog.twitch.tv/en/2026/10/16/pokemon-evolutions-and-night-out/",
-    "published_at": "2026-10-16T17:15:43+00:00",
-    "summary": "Twitch Blog の更新ページ候補",
-    "fingerprint": "d3da89b07eb23c130ce8f13b49d12ef9f0eab904",
-    "created_at": "2026-10-16 19:58:35"
   }
 ]
