@@ -106,17 +106,5 @@
     "summary": "Twitch Blog の更新ページ候補",
     "fingerprint": "89e4e31e6e1178e676f27b7790bdfa123aa88d36",
     "created_at": "2026-10-20 20:39:37"
-  },
-  {
-    "id": 10967,
-    "source_id": "obs_releases",
-    "source_name": "OBS Studio Releases",
-    "category": "obs",
-    "title": "OBS Studio 33.0.0 Release Candidate 2",
-    "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0-rc2",
-    "published_at": "2026-10-16T23:31:07+00:00",
-    "summary": "OBS Studio 33.0.0 Release Candidate 2 の更新です。変更点の詳細は公式リリースノートで確認できます。",
-    "fingerprint": "27912d611860c3858cdab2abc62d3b54c16e7fb7",
-    "created_at": "2026-10-17 19:27:36"
   }
 ]
