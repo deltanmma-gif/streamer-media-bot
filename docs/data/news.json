@@ -1,5 +1,17 @@
 [
   {
+    "id": 12377,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "✨NEW✨ Update to sharing posts on YouTube",
+    "url": "https://www.youtube.com/shorts/ueyJTzoAKd4",
+    "published_at": "2026-11-16T22:59:33+00:00",
+    "summary": "YouTube is partnering with select social media management platforms on a pilot to make it easier for brands, creators, and businesses to sha...",
+    "fingerprint": "884616c2dee5c163bb3cba22e942329982cb6335",
+    "created_at": "2026-11-17 00:50:41"
+  },
+  {
     "id": 12267,
     "source_id": "twitch_blog",
     "source_name": "Twitch Blog",
