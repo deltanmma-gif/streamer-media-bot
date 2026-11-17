@@ -1,5 +1,29 @@
 [
   {
+    "id": 12452,
+    "source_id": "twitch_blog",
+    "source_name": "Twitch Blog",
+    "category": "twitch",
+    "title": "The Wait Is Over Gtavi Is Live",
+    "url": "https://blog.twitch.tv/en/2026/11/17/the-wait-is-over-gtavi-is-live/",
+    "published_at": "2026-11-17T19:46:31+00:00",
+    "summary": "Twitch Blog の更新ページ候補",
+    "fingerprint": "6e18c0b4e9f01d6655703de47a0fa724aed3e256",
+    "created_at": "2026-11-17 23:52:02"
+  },
+  {
+    "id": 12427,
+    "source_id": "youtube_teamyoutube",
+    "source_name": "TeamYouTube",
+    "category": "youtube",
+    "title": "HOW TO: React LIVE to Other Streams",
+    "url": "https://www.youtube.com/shorts/iGbiFtk2CUw",
+    "published_at": "2026-11-17T19:35:39+00:00",
+    "summary": "HOW TO: React LIVE to Other Streams に関する案内です。配信設定や運用改善の参考になります。",
+    "fingerprint": "844807495940d4e00d38f191dd181be7ede983a8",
+    "created_at": "2026-11-17 23:52:02"
+  },
+  {
     "id": 12377,
     "source_id": "youtube_teamyoutube",
     "source_name": "TeamYouTube",
