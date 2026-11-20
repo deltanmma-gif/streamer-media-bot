@@ -1,5 +1,17 @@
 [
   {
+    "id": 12592,
+    "source_id": "obs_releases",
+    "source_name": "OBS Studio Releases",
+    "category": "obs",
+    "title": "OBS Studio 33.0.2",
+    "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.2",
+    "published_at": "2026-11-20T16:54:02+00:00",
+    "summary": "OBS Studio 33.0.2 の更新です。変更点の詳細は公式リリースノートで確認できます。",
+    "fingerprint": "9e314703735856b320d79587f1acf184289919e0",
+    "created_at": "2026-11-20 23:08:29"
+  },
+  {
     "id": 12452,
     "source_id": "twitch_blog",
     "source_name": "Twitch Blog",

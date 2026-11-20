@@ -1,24 +1,24 @@
 # 今日の投稿候補
 
-## 1. 更新整理: The Wait Is Over Gtavi Is Live
+## 1. 更新整理: OBS Studio 33.0.2
+
+OBS Studio Releases の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://github.com/obsproject/obs-studio/releases/tag/33.0.2
+
+- ALT: OBS Studio Releases の更新要点を整理したカード画像。タイトルは OBS Studio 33.0.2。
+- 画像: assets/cards/first-3-minutes-hook.png
+
+## 2. 更新整理: The Wait Is Over Gtavi Is Live
 
 Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/11/17/the-wait-is-over-gtavi-is-live/
 
 - ALT: Twitch Blog の更新要点を整理したカード画像。タイトルは The Wait Is Over Gtavi Is Live。
 - 画像: assets/cards/first-3-minutes-hook.png
 
-## 2. 更新整理: HOW TO: React LIVE to Other Streams
+## 3. 更新整理: HOW TO: React LIVE to Other Streams
 
 TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/iGbiFtk2CUw
 
 - ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは HOW TO: React LIVE to Other Streams。
-- 画像: assets/cards/first-3-minutes-hook.png
-
-## 3. 更新整理: ✨NEW✨ Update to sharing posts on YouTube
-
-TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/ueyJTzoAKd4
-
-- ALT: TeamYouTube の更新要点を整理したカード画像。タイトルは ✨NEW✨ Update to sharing posts on YouTube。
 - 画像: assets/cards/first-3-minutes-hook.png
 
 ## 4. 保存版: 初見離脱を減らす冒頭3分テンプレ

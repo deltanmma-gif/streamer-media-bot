@@ -1,5 +1,11 @@
 [
   {
+    "headline": "更新整理: OBS Studio 33.0.2",
+    "body": "OBS Studio Releases の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://github.com/obsproject/obs-studio/releases/tag/33.0.2",
+    "alt_text": "OBS Studio Releases の更新要点を整理したカード画像。タイトルは OBS Studio 33.0.2。",
+    "image_path": "assets/cards/first-3-minutes-hook.png"
+  },
+  {
     "headline": "更新整理: The Wait Is Over Gtavi Is Live",
     "body": "Twitch Blog の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://blog.twitch.tv/en/2026/11/17/the-wait-is-over-gtavi-is-live/",
     "alt_text": "Twitch Blog の更新要点を整理したカード画像。タイトルは The Wait Is Over Gtavi Is Live。",
@@ -9,12 +15,6 @@
     "headline": "更新整理: HOW TO: React LIVE to Other Streams",
     "body": "TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/iGbiFtk2CUw",
     "alt_text": "TeamYouTube の更新要点を整理したカード画像。タイトルは HOW TO: React LIVE to Other Streams。",
-    "image_path": "assets/cards/first-3-minutes-hook.png"
-  },
-  {
-    "headline": "更新整理: ✨NEW✨ Update to sharing posts on YouTube",
-    "body": "TeamYouTube の更新を短く整理しました。要点だけ先に確認したい人向けです。 https://www.youtube.com/shorts/ueyJTzoAKd4",
-    "alt_text": "TeamYouTube の更新要点を整理したカード画像。タイトルは ✨NEW✨ Update to sharing posts on YouTube。",
     "image_path": "assets/cards/first-3-minutes-hook.png"
   },
   {
