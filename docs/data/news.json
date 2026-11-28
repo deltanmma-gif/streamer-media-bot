@@ -58,17 +58,5 @@
     "summary": "YouTube is partnering with select social media management platforms on a pilot to make it easier for brands, creators, and businesses to sha...",
     "fingerprint": "884616c2dee5c163bb3cba22e942329982cb6335",
     "created_at": "2026-11-17 00:50:41"
-  },
-  {
-    "id": 12267,
-    "source_id": "twitch_blog",
-    "source_name": "Twitch Blog",
-    "category": "twitch",
-    "title": "Twitchcon San Diego 2026",
-    "url": "https://blog.twitch.tv/en/2026/11/13/twitchcon-san-diego-2026/",
-    "published_at": "2026-11-13T18:59:24+00:00",
-    "summary": "Twitch Blog の更新ページ候補",
-    "fingerprint": "77b908afc08457b299686e8c1abd73a91d17f9f3",
-    "created_at": "2026-11-13 22:41:43"
   }
 ]
